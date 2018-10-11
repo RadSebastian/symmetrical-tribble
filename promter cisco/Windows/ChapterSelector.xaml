@@ -1,0 +1,163 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:controls="clr-namespace:Suggeritore_Cisco.Controls"
+        x:Class="Suggeritore_Cisco.Windows.ChapterSelector"
+        mc:Ignorable="d"
+        Height="auto" Width="auto" ResizeMode="NoResize" 
+        Visibility="Hidden" ShowInTaskbar="False" Topmost="False" 
+        WindowStartupLocation="CenterScreen" SizeToContent="WidthAndHeight" 
+        Closing="Window_Closing">
+    <Border BorderThickness="1" BorderBrush="DarkCyan">
+        <Grid Background="#FF161616" Height="386" Width="516">
+            <Grid Height="52" VerticalAlignment="Top" Background="#FF282828">
+                <Image Height="32" Width="32" Margin="12,0,0,0" HorizontalAlignment="Left" Source="/conhost;component/Img/better cisco.png" RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled"/>
+                <Label Content="SUGGERITORE CISCO v2 RC 1" HorizontalAlignment="Left" Margin="48,0,0,0" VerticalAlignment="Center" FontSize="16" Foreground="White" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled"/>
+            </Grid>
+
+            <controls:ADXButton Tag="1" HorizontalAlignment="Left" Margin="12,64,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#FF0076A3" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="capitolo" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="1" HorizontalAlignment="Center" FontSize="24" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="2" HorizontalAlignment="Left" Margin="96,64,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#FF0076A3" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="capitolo" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="2" HorizontalAlignment="Center" FontSize="24" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="3" HorizontalAlignment="Left" Margin="180,64,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#FF0076A3" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="capitolo" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="3" HorizontalAlignment="Center" FontSize="24" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="4" HorizontalAlignment="Left" Margin="264,64,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#FF0076A3" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="capitolo" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="4" HorizontalAlignment="Center" FontSize="24" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="5" HorizontalAlignment="Left" Margin="348,64,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#FF0076A3" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="capitolo" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="5" HorizontalAlignment="Center" FontSize="24" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="6" HorizontalAlignment="Left" Margin="432,64,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#FF0076A3" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="capitolo" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="6" HorizontalAlignment="Center" FontSize="24" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="6PT" HorizontalAlignment="Left" Margin="12,148,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#FF0076A3" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="capitolo" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="6 PT" HorizontalAlignment="Center" FontSize="24" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="7" HorizontalAlignment="Left" Margin="96,148,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#FF0076A3" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="capitolo" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="7" HorizontalAlignment="Center" FontSize="24" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="8" HorizontalAlignment="Left" Margin="180,148,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#FF0076A3" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="capitolo" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="8" HorizontalAlignment="Center" FontSize="24" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="9" HorizontalAlignment="Left" Margin="264,148,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#FF0076A3" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="capitolo" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="9" HorizontalAlignment="Center" FontSize="24" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="10" HorizontalAlignment="Left" Margin="348,148,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#FF0076A3" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="capitolo" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="10" HorizontalAlignment="Center" FontSize="24" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="11" HorizontalAlignment="Left" Margin="432,148,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#FF0076A3" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="capitolo" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="11" HorizontalAlignment="Center" FontSize="24" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="PRETEST" HorizontalAlignment="Left" Margin="348,232,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#2c3e50" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="PRETEST" HorizontalAlignment="Center" FontSize="14" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="PRACTICE FINAL" HorizontalAlignment="Left" Margin="264,232,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#2c3e50" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="PRACTICE" HorizontalAlignment="Center" FontSize="14" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="FINAL" HorizontalAlignment="Center" FontSize="14" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="PT PRACTICE" HorizontalAlignment="Left" Margin="180,232,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#2c3e50" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="Skills PT" HorizontalAlignment="Center" FontSize="14" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="PRACTICE" HorizontalAlignment="Center" FontSize="14" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+
+            <controls:ADXButton Tag="FINAL" HorizontalAlignment="Left" Margin="96,232,0,0" VerticalAlignment="Top" Width="72" Height="72" Foreground="White" BorderBrush="White" Background="#2c3e50" Click="ADXButton_Click">
+                <StackPanel>
+                    <TextBlock Text="Esame" HorizontalAlignment="Center" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                    <TextBlock Text="FINAL" HorizontalAlignment="Center" FontSize="14" TextOptions.TextRenderingMode="Aliased" TextOptions.TextFormattingMode="Ideal"  RenderOptions.BitmapScalingMode="Fant" RenderOptions.ClearTypeHint="Enabled" />
+                </StackPanel>
+            </controls:ADXButton>
+            <Grid x:Name="statusGrid" VerticalAlignment="Bottom" Height="36" Margin="0,0,0,36" Background="#FF641A83">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Image Height="28" Grid.Column="0" Width="28" Source="/conhost;component/Img/Detail.png" HorizontalAlignment="Left" Margin="8,4" />
+                <TextBlock x:Name="userTxt" Grid.Column="0" Text="Benvenuto, X!" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="44,0,0,0" Foreground="White" />
+
+                <Image Height="20" Grid.Column="1" Width="20" Source="/conhost;component/Img/chiave.png" HorizontalAlignment="Left" Margin="8,4" />
+                <TextBlock x:Name="licenseTxt" Grid.Column="1" Text="LICENZA: PERPETUA" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="32,0,0,0" Foreground="White" />
+            </Grid>
+            <Grid VerticalAlignment="Bottom" Height="36" Background="#FF282828">
+                <controls:ADXButton Tag="Esci" HorizontalAlignment="Right" Foreground="White" Content="Esci" Background="#FF0076A3" Width="128" Click="ADXButton_Click" BorderBrush="{x:Null}" />
+                <controls:ADXButton Tag="Istruzioni" HorizontalAlignment="Center" Foreground="White" Content="Istruzioni d'uso" Background="#FFEF4136" Width="128" Click="ADXButton_Click" BorderBrush="{x:Null}" />
+                <controls:ADXButton Tag="About"  HorizontalAlignment="Left" Foreground="White" Content="About" Background="#FF009688" Width="128" Click="ADXButton_Click" BorderBrush="{x:Null}" />
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

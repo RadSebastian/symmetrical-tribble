@@ -1,0 +1,28 @@
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\bin\Debug\conhost.exe.config
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\bin\Debug\conhost.exe
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\bin\Debug\conhost.pdb
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Suggeritore Cisco.csprojAssemblyReference.cache
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Controls\CircularProgressBar.baml
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Windows\DummyWindow.baml
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\MainWindow.baml
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Windows\HelperUI.baml
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Windows\PTHelperUI.baml
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Controls\CircularProgressBar.g.cs
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Windows\ChapterSelector.g.cs
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Windows\DummyWindow.g.cs
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\MainWindow.g.cs
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Windows\HelperUI.g.cs
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Windows\PTHelperUI.g.cs
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\App.g.cs
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\conhost_MarkupCompile.cache
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\conhost_MarkupCompile.lref
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\App.baml
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Themes\Generic.baml
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Windows\ChapterSelector.baml
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\conhost.g.resources
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Suggeritore_Cisco.Properties.Resources.resources
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Suggeritore Cisco.csproj.GenerateResource.cache
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\Suggeritore Cisco.csproj.CoreCompileInputs.cache
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\conhost.exe
+d:\Users\d\Desktop\Suggeritore-Cisco-master\Suggeritore Cisco\obj\Debug\conhost.pdb

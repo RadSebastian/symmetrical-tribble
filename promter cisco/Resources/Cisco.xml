@@ -1,0 +1,2258 @@
+<COLLECTION>
+	<CISCO capitolo="1">
+		<RICHIESTA>
+			<DOMANDA>A company is contemplating whether to use a client/server or a peer-to-peer network. What are three characteristics of a peer-to-peer network? (Choose three.)</DOMANDA>
+			<RISPOSTA>easy to create\nlacks centralized administration\nless cost to implement</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which device performs the function of determining the path that messages should take through internetworks?</DOMANDA>
+			<RISPOSTA>a router</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What two criteria are used to help select a network medium from various network media? (Choose two.)</DOMANDA>
+			<RISPOSTA>the distance the selected medium can successfully carry a signal\nthe environment where the selected medium is to be installed</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which two statements describe intermediary devices? (Choose two.)</DOMANDA>
+			<RISPOSTA>Intermediary devices direct the path of the data.\nIntermediary devices connect individual hosts to the network.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What are two functions of end devices on a network? (Choose two.)</DOMANDA>
+			<RISPOSTA>They originate the data that flows through the network.\nThey are the interface between humans and the communication network.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which area of the network would a college IT staff most likely have to redesign as a direct result of many students bringing their own tablets and smartphones to school to access school resources?</DOMANDA>
+			<RISPOSTA>wireless LAN</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>An employee at a branch office is creating a quote for a customer. In order to do this, the employee needs to access confidential pricing information from internal servers at the Head Office. What type of network would the employee access? </DOMANDA>
+			<RISPOSTA>an intranet</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which two connection options provide an always-on, high-bandwidth Internet connection to computers in a home office? (Choose two.)</DOMANDA>
+			<RISPOSTA>DSL\ncable</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which two Internet connection options do not require that physical cables be run to the building? (Choose two.)</DOMANDA>
+			<RISPOSTA>cellular\nsatellite</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which term describes the state of a network when the demand on the network resources exceeds the available capacity?</DOMANDA>
+			<RISPOSTA>congestion</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which expression accurately defines the term bandwidth?</DOMANDA>
+			<RISPOSTA>a measure of the data carrying capacity of the media</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which statement describes a characteristic of cloud computing?</DOMANDA>
+			<RISPOSTA>Applications can be accessed over the Internet by individual users or businesses using any device, anywhere in the world.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which statement describes the use of powerline networking technology?</DOMANDA>
+			<RISPOSTA>A device connects to an existing home LAN using an adapter and an existing electrical outlet.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What security violation would cause the most amount of damage to the life of a home user?</DOMANDA>
+			<RISPOSTA>capturing of personal data that leads to identity theft</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>A user is implementing security on a small office network. Which two actions would provide the minimum security requirements for this network? (Choose two.)</DOMANDA>
+			<RISPOSTA>implementing a firewall\ninstalling antivirus software</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>A network is capable of delivering voice, video, text, and graphics over the same communication channels.</DOMANDA>
+			<RISPOSTA>converged</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>The acronym refers to the policy that allows employees to use their personal devices in the business office to access the network and other resources.</DOMANDA>
+			<RISPOSTA>byod</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What are two functions of intermediary devices on a network? (Choose two.)</DOMANDA>
+			<RISPOSTA>They direct data along alternate pathways when there is a link failure.\nThey filter the flow of data, based on security settings.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Match the form of network communication with its description. (Not all options are used.)</DOMANDA>
+			<RISPOSTA>an audio-based medium that allows people to deliver their recordings to a wide audience –> podcast\ninteractive websites where people create and share user-generated content with friends and family –> social media\nweb pages that groups of people can edit and view together –> wiki\nreal-time communication between two or more people –> instant messaging</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Match each characteristic to its corresponding internet conectivity type. (Not all options are used) </DOMANDA>
+			<RISPOSTA>high bandwidth connection that runs over telephone line -> DSL\ntypically has very low bandwidth -> dialup telephone\nnot suited for heavily wooded areas -> satellite\nuses coaxial cable as a medium -> cable</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What is the Internet?</DOMANDA>
+			<RISPOSTA>It provides connections through interconnected global networks.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Match the definition to the security goal. (Not all options are used.)</DOMANDA>
+			<RISPOSTA>ensuring confidentiality -> only the intended recipients can access and read the data\nmaintaining integrity -> the assurance that the information has not been altered during transmission\nensuring availability -> the assurance of timely and reliable access to data</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What type of network must a home user access in order to do online shopping?</DOMANDA>
+			<RISPOSTA>the Internet</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What type of network traffic requires QoS?</DOMANDA>
+			<RISPOSTA>video conferencing</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>A network administrator is implementing a policy that requires strong, complex passwords. Which data protection goal does this policy support?</DOMANDA>
+			<RISPOSTA>data confidentiality</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Refer to the exhibit. Which set of devices contains only intermediary devices?</DOMANDA>
+			<RISPOSTA>A, B, D, G</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which two statements about the relationship between LANs and WANs are true? (Choose two.)</DOMANDA>
+			<RISPOSTA>WANs connect LANs at slower speed bandwidth than LANs connect their internal end devices.\nWANs are typically operated through multiple ISPs, but LANs are typically operated by single organizations or individuals.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which two Internet solutions provide an always-on, high-bandwidth connection to computers on a LAN? (Choose two.)</DOMANDA>
+			<RISPOSTA>DSL\ncable</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which description correctly defines a converged network?</DOMANDA>
+			<RISPOSTA>a single network channel capable of delivering multiple communication forms</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which statement describes a network that supports QoS?</DOMANDA>
+			<RISPOSTA>The network provides predictable levels of service to different types of traffic.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What is a characteristic of circuit-switched networks?</DOMANDA>
+			<RISPOSTA>If all circuits are busy, a new call cannot be placed.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which expression accurately defines the term congestion?</DOMANDA>
+			<RISPOSTA>a state where the demand on the network resources exceeds the available capacity</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which tool provides real-time video and audio communication over the Internet so that businesses can conduct corporate meetings with participants from several remote locations?</DOMANDA>
+			<RISPOSTA>TelePresence</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Requiring strong, complex passwords is a practice that supports which network security goal?</DOMANDA>
+			<RISPOSTA>ensuring data confidentiality</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which three network tools provide the minimum required security protection for home users? (Choose three.)</DOMANDA>
+			<RISPOSTA>antivirus software\nantispyware software\na firewall</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What two criteria are used to help select network media? (Choose two.)</DOMANDA>
+			<RISPOSTA>the distance the media can successfully carry a signal\nthe environment where the media is to be installed</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>The acronym refers to the trend of end users being able to use their personal devices to access the business network and resources.</DOMANDA>
+			<RISPOSTA>byod</RISPOSTA>
+		</RICHIESTA>
+	</CISCO>
+	<CISCO capitolo="2">
+		<RICHIESTA>
+			<DOMANDA>What is the function of the kernel of an operating software?</DOMANDA>
+			<RISPOSTA>The kernel provisions hardware resources to meet software requirements.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>A network administrator needs to keep the user ID, password, and session contents private when establishing remote CLI connectivity with a switch to manage it. Which access method should be chosen?</DOMANDA>
+			<RISPOSTA>SSH</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which procedure is used to access a Cisco 2960 switch when performing an initial configuration in a secure environment?</DOMANDA>
+			<RISPOSTA>Use the console port to locally access the switch from a serial or USB interface of the PC.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which command or key combination allows a user to return to the previous level in the command hierarchy?</DOMANDA>
+			<RISPOSTA>exit</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>A router has a valid operating system and a configuration file stored in NVRAM. The configuration file contains an enable secret password but no console password. When the router boots up, which mode will display?</DOMANDA>
+			<RISPOSTA>user EXEC mode</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which two functions are provided to users by the context-sensitive help feature of the Cisco IOS CLI? (Choose two.)</DOMANDA>
+			<RISPOSTA>displaying a list of all available commands within the current mode\ndetermining which option, keyword, or argument is available for the entered command</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which information does the show startup-config command display?</DOMANDA>
+			<RISPOSTA>the contents of the saved configuration file in the NVRAM</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Why is it important to configure a hostname on a device?</DOMANDA>
+			<RISPOSTA>to identify the device during remote access (SSH or telnet)</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which two host names follow the guidelines for naming conventions on Cisco IOS devices? (Choose two.)</DOMANDA>
+			<RISPOSTA>RM-3-Switch-2A4\nSwBranch799</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>How does the service password-encryption command enhance password security on Cisco routers and switches?</DOMANDA>
+			<RISPOSTA>It encrypts passwords that are stored in router or switch configuration files.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Refer to the exhibit. A network administrator is configuring the MOTD on switch SW1. What is the purpose of this command?</DOMANDA>
+			<RISPOSTA>to display a message when a user accesses the switch</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>While trying to solve a network issue, a technician made multiple changes to the current router configuration file. The changes did not solve the problem and were not saved. What action can the technician take to discard the changes and work with the file in NVRAM?</DOMANDA>
+			<RISPOSTA>Issue the reload command without saving the running configuration.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which statement is true about the running configuration file in a Cisco IOS device?</DOMANDA>
+			<RISPOSTA>It affects the operation of the device immediately when modified.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What are two characteristics of RAM on a Cisco device? (Choose two.) </DOMANDA>
+			<RISPOSTA>The configuration that is actively running on the device is stored in RAM.\nThe contents of RAM are lost during a power cycle.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which interface allows remote management of a Layer 2 switch?</DOMANDA>
+			<RISPOSTA>the switch virtual interface</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which interface is the default SVI on a Cisco switch?</DOMANDA>
+			<RISPOSTA>VLAN 1</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Why would a Layer 2 switch need an IP address?</DOMANDA>
+			<RISPOSTA>to enable the switch to be managed remotely</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What command can be used on a Windows PC to see the IP configuration of that computer?</DOMANDA>
+			<RISPOSTA>ipconfig</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>A technician is adding a new PC to a LAN. After unpacking the components and making all the connections, the technician starts the PC. After the OS loads, the technician opens a browser, and verifies that the PC can reach the Internet. Why was the PC able to connect to the network with no additional configuration?</DOMANDA>
+			<RISPOSTA>The PC was preconfigured to use DHCP.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What is a user trying to determine when issuing a ping 10.1.1.1 command on a PC?</DOMANDA>
+			<RISPOSTA>if there is connectivity with the destination device</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Refer to the exhibit. A network technician is testing connectivity in a new network. Based on the test results shown in the exhibit, which device does the technician have connectivity with and which device does the technician not have connectivity with? (Choose two.)</DOMANDA>
+			<RISPOSTA>connectivity: switch 2\nno connectivity: PC-C</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Refer to the exhibit. What three facts can be determined from the viewable output of the show ip interface brief command? (Choose three.)</DOMANDA>
+			<RISPOSTA>The switch can be remotely managed.\nOne device is attached to a physical interface.\nThe default SVI has been configured.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>An administrator is configuring a switch console port with a password. In what order will the administrator travel through the IOS modes of operation in order to reach the mode in which the configuration commands will be entered? (Not all options are used.)</DOMANDA>
+			<RISPOSTA>first mode -> user EXEC mode\nsecond mode -> privileged EXEC mode\nthird mode -> global configuration mode\nfinal mode -> line configuration mode</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Match the definitions to their respective CLI hot keys and shortcuts. (Not all options are used.)</DOMANDA>
+			<RISPOSTA>OPZIONE 1:\ndisplays the next screen -> space bar\nscrolls backwards through previously entered commands -> Up Arrow\nprovides context-sensitive help -> ?\ncompletes abbreviated commands and parameters -> Tab\naborts commands such as trace and ping -> Ctrl-Shift-6\n\nOPZIONE 2:\nTab -> Completes abbreviated commands and parameters\nCtrl-R -> returns directly to the privileged EXEC mode\nUp Arrow -> scrolls backwards through previously entered commands\nCtrl-Z -> cancels any command currently being entered and returns directly to privileged EXEC mode\nCtrl-C -> Redisplays, on a new line, the command currently being typed</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>A network administrator is planning an IOS upgrade on several of the head office routers and switches. Which three questions must be answered before continuing with the IOS selection and upgrade? (Choose three.)</DOMANDA>
+			<RISPOSTA>What models of routers and switches require upgrades?\nDo the routers and switches have enough RAM and flash memory for the proposed IOS versions?\nWhat features are required for the devices?</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>A router has a valid operating system and a configuration stored in NVRAM. When the router boots up, which mode will display?</DOMANDA>
+			<RISPOSTA>user EXEC mode</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which two characters are allowed as part of the hostname of a Cisco device? (Choose two.)</DOMANDA>
+			<RISPOSTA>numbers\ndash</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What is a result of using the service password-encryption command on a Cisco network device?</DOMANDA>
+			<RISPOSTA>All passwords in the configuration are not shown in clear text when viewing the configuration.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>A new network administrator has been asked to enter a banner message on a Cisco device. What is the fastest way a network administrator could test whether the banner is properly configured?</DOMANDA>
+			<RISPOSTA>Exit privileged EXEC mode and press Enter.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Passwords can be used to restrict access to all or parts of the Cisco IOS. Select the modes and interfaces that can be protected with passwords. (Choose three.)</DOMANDA>
+			<RISPOSTA>VTY interface\nconsole interface\nprivileged EXEC mode</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What benefit does DHCP provide to a network?</DOMANDA>
+			<RISPOSTA>Hosts can connect to the network and get an IP address without manual configuration.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>What criterion must be followed in the design of an IPv4 addressing scheme for end devices?</DOMANDA>
+			<RISPOSTA>Each IP address must be unique within the local network.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Refer to the exhibit. A switch was configured as shown. A ping to the default gateway was issued, but the ping was not successful. Other switches in the same network can ping this gateway. What is a possible reason for this?</DOMANDA>
+			<RISPOSTA>The no shutdown command was not issued for VLAN 1.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Which two features are characteristics of flash memory? (Choose two.)</DOMANDA>
+			<RISPOSTA>Flash provides nonvolatile storage.\nThe contents of flash may be overwritten.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+			<DOMANDA>Match the description to the common IOS CLI access method.</DOMANDA>
+			<RISPOSTA>Console port:\nIt displays startup, debugging, and error messages by default.\nIt can be used to restore an out-of-box configuration on a switch or router.\n\nVirtual interface:\nIt allows access throught use of Telnet or SSH protocols.\nIt requires an active network connection.\n\nAUX port:\nIt connects throught dialup connections\nIt is not supported on Catalyst switch devices</RISPOSTA>
+		</RICHIESTA>
+	</CISCO>
+	<CISCO capitolo="3">
+		<RICHIESTA>
+		  <DOMANDA>What method can be used by two computers to ensure that packets are not dropped because too much data is being sent too quickly?</DOMANDA>
+		  <RISPOSTA>flow control</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What type of communication will send a message to all devices on a local area network?</DOMANDA>
+		  <RISPOSTA>broadcast</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What process is used to place one message inside another message for transfer from the source to the destination?</DOMANDA>
+		  <RISPOSTA>encapsulation</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>A web client is sending a request for a webpage to a web server. From the perspective of the client, what is the correct order of the protocol stack that is used to prepare the request for transmission?</DOMANDA>
+		  <RISPOSTA>HTTP, TCP, IP, Ethernet</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which statement is correct about network protocols?</DOMANDA>
+		  <RISPOSTA>They define how messages are exchanged between the source and the destination.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which statement is true about the TCP/IP and OSI models?</DOMANDA>
+		  <RISPOSTA>The TCP/IP transport layer and OSI Layer 4 provide similar services and functions</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What is an advantage of using standards to develop and implement protocols?</DOMANDA>
+		  <RISPOSTA>Products from different manufacturers can interoperate successfully.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What three application layer protocols are part of the TCP/IP protocol suite? (Choose three.)</DOMANDA>
+		  <RISPOSTA>DHCP\nDNS\nFTP</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What are proprietary protocols?</DOMANDA>
+		  <RISPOSTA>protocols developed by organizations who have control over their definition and operation</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What is an advantage of network devices using open standard protocols?</DOMANDA>
+		  <RISPOSTA>A client host and a server running different operating systems can successfully exchange data.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Refer to the exhibit. If Host1 were to transfer a file to the server, what layers of the TCP/IP model would be used?</DOMANDA>
+		  <RISPOSTA>application, transport, Internet, and network access layers</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which three layers of the OSI model are comparable in function to the application layer of the TCP/IP model? (Choose three.)</DOMANDA>
+		  <RISPOSTA>application\npresentation\nsession</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>At which layer of the OSI model would a logical address be encapsulated?</DOMANDA>
+		  <RISPOSTA>network layer</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which PDU format is used when bits are received from the network medium by the NIC of a host?</DOMANDA>
+		  <RISPOSTA>frame</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which PDU is processed when a host computer is de-encapsulating a message at the transport layer of the TCP/IP model?</DOMANDA>
+		  <RISPOSTA>segment</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Refer to the exhibit. HostA is attempting to contact ServerB. Which two statements correctly describe the addressing that HostA will generate in the process? (Choose two.)</DOMANDA>
+		  <RISPOSTA>A frame with the destination MAC address of RouterA.\nA packet with the destination IP address of ServerB.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which address does a NIC use when deciding whether to accept a frame?</DOMANDA>
+		  <RISPOSTA>destination MAC address</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What will happen if the default gateway address is incorrectly configured on a host?</DOMANDA>
+		  <RISPOSTA>The host cannot communicate with hosts in other networks.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which characteristic describes the default gateway of a host computer?</DOMANDA>
+		  <RISPOSTA>the logical address of the router interface on the same network as the host computer</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Match the description to the organization.</DOMANDA>
+		  <RISPOSTA>ISOC -> The organization promotes the open development, evolution, and use of the internet throughout the world\n\nISO -> This organization is the largest developer of international standars in the world for a wide variety of products and services. It is know for its Open System Interconection (OSI) reference model.\n\nIANA -> This organization is responsible for overseeing and managing IP address allocation, domain name management, and protocol identifiers</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Match the protocol function to the description while taking into consideration that a network client is visiting a web site.</DOMANDA>
+		  <RISPOSTA>governing the way a web server and a web client interact –> application protocol\n\ntaking the segments from transport protocol, encapsulating them into packets, and assigning them with appropriate addresses –> internet protocol\n\npreparing packets to be transmitted over the network media –> network access protocol\n\nmanaging the individual conversations between web servers and web clients –> transport protocol</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Match each description to its corresponding term.</DOMANDA>
+		  <RISPOSTA>message encoding -> the process of converting information from one format into another acceptable for transmission\n\nmessage encapsulation -> the process of placing one message format inside another message format\n\nmessage sizing -> the process of breaking up a long message into individual pieces before being sent over the network</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>A computer in a given network is communicating with a specific group of computers. What type of communication is this?</DOMANDA>
+		  <RISPOSTA>multicast</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which protocol is responsible for controlling the size and rate of the HTTP messages exchanged between server and client?</DOMANDA>
+		  <RISPOSTA>TCP</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>A user is viewing an HTML document located on a web server. What protocol segments the messages and manages the segments in the individual conversation between the web server and the web client?</DOMANDA>
+		  <RISPOSTA>TCP</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which IEEE standard enables a wireless NIC to connect to a wireless AP that is made by a different manufacturer?</DOMANDA>
+		  <RISPOSTA>802.11</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What is a function of Layer 4 of the OSI model?</DOMANDA>
+		  <RISPOSTA>to describe the ordered and reliable delivery of data between source and destination</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What is a benefit of using a layered model for network communications?</DOMANDA>
+		  <RISPOSTA>fostering competition among device and software vendors by enforcing the compatibility of their products</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What is the general term that is used to describe a piece of data at any layer of a networking model?</DOMANDA>
+		  <RISPOSTA>protocol data unit</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which statement accurately describes a TCP/IP encapsulation process when a PC is sending data to the network?</DOMANDA>
+		  <RISPOSTA>Segments are sent from the transport layer to the internet layer.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What statement describes the function of the Address Resolution Protocol?</DOMANDA>
+		  <RISPOSTA>ARP is used to discover the MAC address of any host on the local network.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which address provides a unique host address for data communications at the internet layer?</DOMANDA>
+		  <RISPOSTA>logical address</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which protocol is used by a computer to find the MAC address of the default gateway on an Ethernet network?</DOMANDA>
+		  <RISPOSTA>ARP</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>If the default gateway is configured incorrectly on the host, what is the impact on communications?</DOMANDA>
+		  <RISPOSTA>The host can communicate with other hosts on the local network, but is unable to communicate with hosts on remote networks.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Open the PT Activity. Perform the tasks in the activity instructions and then answer the question. Based on the configured network, what IP address would PC1 and PC2 use as their default gateway?</DOMANDA>
+		  <RISPOSTA>192.168.1.1</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>A user sends an HTTP request to a web server on a remote network. During encapsulation for this request, what information is added to the address field of a frame to indicate the destination?</DOMANDA>
+		  <RISPOSTA>the MAC address of the default gateway</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Refer to the exhibit. PC-A and PC-B are both in VLAN 60. PC-A is unable to communicate with PC-B. What is the problem?</DOMANDA>
+		  <RISPOSTA>The VLAN that is used by PC-A is not in the list of allowed VLANs on the trunk.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which command is used to remove only VLAN 20 from a switch?</DOMANDA>
+		  <RISPOSTA>no vlan 20</RISPOSTA>
+		</RICHIESTA>
+	</CISCO>
+  <CISCO capitolo="4">
+		<RICHIESTA>
+		  <DOMANDA>What are two reasons for physical layer protocols to use frame encoding techniques? (Choose two.)</DOMANDA>
+		  <RISPOSTA>to distinguish data bits from control bits\nto identify where the frame starts and ends</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What is indicated by the term throughput?</DOMANDA>
+		  <RISPOSTA>the measure of the bits transferred across the media over a given period of time</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>A network administrator notices that some newly installed Ethernet cabling is carrying corrupt and distorted data signals. The new cabling was installed in the ceiling close to fluorescent lights and electrical equipment. Which two factors may interfere with the copper cabling and result in signal distortion and data corruption? (Choose two.)</DOMANDA>
+		  <RISPOSTA>EMI\nRFI</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which characteristic describes crosstalk?</DOMANDA>
+		  <RISPOSTA>the distortion of the transmitted messages from signals carried in adjacent wires</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What technique is used with UTP cable to help protect against signal interference from crosstalk?</DOMANDA>
+		  <RISPOSTA>twisting the wires together into pairs</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Refer to the exhibit. The PC is connected to the console port of the switch. All the other connections are made through FastEthernet links. Which types of UTP cables can be used to connect the devices?</DOMANDA>
+		  <RISPOSTA>1 – rollover, 2 – straight-through, 3 – crossover</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Refer to the exhibit. What is wrong with the displayed termination?</DOMANDA>
+		  <RISPOSTA>The untwisted length of each wire is too long.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which type of connector does a network interface card use?</DOMANDA>
+		  <RISPOSTA>RJ-45</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What is one advantage of using fiber optic cabling rather than copper cabling?</DOMANDA>
+		  <RISPOSTA>It is able to carry signals much farther than copper cabling.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Why are two strands of fiber used for a single fiber optic connection?</DOMANDA>
+		  <RISPOSTA>They allow for full-duplex connectivity.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>A network administrator is designing the layout of a new wireless network. Which three areas of concern should be accounted for when building a wireless network? (Choose three.)</DOMANDA>
+		  <RISPOSTA>security\ninterference\ncoverage area</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which layer of the OSI model is responsible for specifying the encapsulation method used for specific types of media?</DOMANDA>
+		  <RISPOSTA>data link</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What are two services performed by the data link layer of the OSI model? (Choose two.)</DOMANDA>
+		  <RISPOSTA>It accepts Layer 3 packets and encapsulates them into frames.\nIt provides media access control and performs error detection.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What is true concerning physical and logical topologies?</DOMANDA>
+		  <RISPOSTA>Logical topologies refer to how a network transfers data between devices.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which method of data transfer allows information to be sent and received at the same time?</DOMANDA>
+		  <RISPOSTA>full duplex</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Which statement describes an extended star topology?</DOMANDA>
+		  <RISPOSTA>End devices connect to a central intermediate device, which in turn connects to other central intermediate devices.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Refer to the exhibit. Which statement describes the media access control methods that are used by the networks in the exhibit?</DOMANDA>
+		  <RISPOSTA>Network 1 uses CSMA/CD and Network 3 uses CSMA/CA.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What is contained in the trailer of a data-link frame?</DOMANDA>
+		  <RISPOSTA>error detection</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>As data travels on the media in a stream of 1s and 0s how does a receiving node identify the beginning and end of a frame?</DOMANDA>
+		  <RISPOSTA>The transmitting node inserts start and stop bits into the frame.</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What is the function of the CRC value that is found in the FCS field of a frame?</DOMANDA>
+		  <RISPOSTA>to verify the integrity of the received frame</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>The term  indicates the capacity of a medium to carry data and it is typically measured in kilobits per second (kb/s) or megabits per second (Mb/s).</DOMANDA>
+		  <RISPOSTA>bandwidth</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>What acronym is used to reference the data link sublayer that identifies the network layer protocol encapsulated in the frame?</DOMANDA>
+		  <RISPOSTA>LLC</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>A physical topology that is a variation or combination of a point-to-point, hub and spoke, or mesh topology is commonly known as a  topology.</DOMANDA>
+		  <RISPOSTA>hybrid</RISPOSTA>
+		</RICHIESTA>
+		<RICHIESTA>
+		  <DOMANDA>Match the characteristics to the correct type of fiber.</DOMANDA>
+		  <RISPOSTA>Multimode fiber:\nLED as light source\nseveral paths of light into the fiber\ngenerally used with LANs\n\nSigne-mode Fiber:\nonly one ray of light into the fiber\ngenerally used for campus backbone\nlaser as light source</RISPOSTA>
+		</RICHIESTA>
+	</CISCO>
+  <CISCO capitolo="8">
+    <RICHIESTA>
+      <DOMANDA>What is a result of connecting two or more switches together?</DOMANDA>
+      <RISPOSTA>The size of the broadcast domain is increased.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. How many broadcast domains are there?</DOMANDA>
+      <RISPOSTA>4</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two reasons a network administrator might want to create subnets? (Choose two.)</DOMANDA>
+      <RISPOSTA>improves network performance\neasier to implement security policies</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. A company uses the address block of 128.107.0.0/16 for its network. What subnet mask would provide the maximum number of equal size subnets while providing enough host addresses for each subnet in the exhibit?</DOMANDA>
+      <RISPOSTA>255.255.255.128</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. The network administrator has assigned the LAN of LBMISS an address range of 192.168.10.0. This address range has been subnetted using a /29 prefix. In order to accommodate a new building, the technician has decided to use the fifth subnet for configuring the new network (subnet zero is the first subnet). By company policies, the router interface is always assigned the first usable host address and the workgroup server is given the last usable host address. Which configuration should be entered into the properties of the workgroup server to allow connectivity to the Internet?</DOMANDA>
+      <RISPOSTA>IP address: 192.168.10.38 subnet mask: 255.255.255.248, default gateway: 192.168.10.33</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>If a network device has a mask of /28, how many IP addresses are available for hosts on this network?</DOMANDA>
+      <RISPOSTA>14</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which subnet mask would be used if 5 host bits are available?</DOMANDA>
+      <RISPOSTA>255.255.255.224</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>How many host addresses are available on the network 172.16.128.0 with a subnet mask of 255.255.252.0?</DOMANDA>
+      <RISPOSTA>1022</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>How many bits must be borrowed from the host portion of an address to accommodate a router with five connected networks?</DOMANDA>
+      <RISPOSTA>three</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator wants to have the same network mask for all networks at a particular small site. The site has the following networks and number of devices:\nIP phones – 22 addresses\nPCs – 20 addresses needed\nPrinters – 2 addresses needed\nScanners – 2 addresses needed\nThe network administrator has deemed that 192.168.10.0/24 is to be the network used at this site. Which single subnet mask would make the most efficient use of the available addresses to use for the four subnetworks?</DOMANDA>
+      <RISPOSTA>255.255.255.224</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A company has a network address of 192.168.1.64 with a subnet mask of 255.255.255.192. The company wants to create two subnetworks that would contain 10 hosts and 18 hosts respectively. Which two networks would achieve that? (Choose two.)</DOMANDA>
+      <RISPOSTA>192.168.1.64/27\n192.168.1.96/28</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator is variably subnetting a network. The smallest subnet has a mask of 255.255.255.248. How many usable host addresses will this subnet provide?</DOMANDA>
+      <RISPOSTA>6</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. Given the network address of 192.168.5.0 and a subnet mask of 255.255.255.224, how many total host addresses are unused in the assigned subnets?</DOMANDA>
+      <RISPOSTA>72</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. Considering the addresses already used and having to remain within the 10.16.10.0/24 network range, which subnet address could be assigned to the network containing 25 hosts?</DOMANDA>
+      <RISPOSTA>10.16.10.64/27</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator needs to monitor network traffic to and from servers in a data center. Which features of an IP addressing scheme should be applied to these devices?</DOMANDA>
+      <RISPOSTA>predictable static IP addresses for easier identification</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two reasons generally make DHCP the preferred method of assigning IP addresses to hosts on large networks? (Choose two.)</DOMANDA>
+      <RISPOSTA>It eliminates most address configuration errors.\nIt reduces the burden on network support staff.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A DHCP server is used to assign IP addresses dynamically to the hosts on a network. The address pool is configured with 192.168.10.0/24. There are 3 printers on this network that need to use reserved static IP addresses from the pool. How many IP addresses in the pool are left to be assigned to other hosts?</DOMANDA>
+      <RISPOSTA>251</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. A company is deploying an IPv6 addressing scheme for its network. The company design document indicates that the subnet portion of the IPv6 addresses is used for the new hierarchical network design, with the site subsection to represent multiple geographical sites of the company, the sub-site section to represent multiple campuses at each site, and the subnet section to indicate each network segment separated by routers. With such a scheme, what is the maximum number of subnets achieved per sub-site?</DOMANDA>
+      <RISPOSTA>16</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the prefix for the host address 2001:DB8:BC15:A:12AB::1/64?</DOMANDA>
+      <RISPOSTA>2001:DB8:BC15:A</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Consider the following range of addresses:\n2001:0DB8:BC15:00A0:0000::\n2001:0DB8:BC15:00A1:0000::\n2001:0DB8:BC15:00A2:0000::\n…\n2001:0DB8:BC15:00AF:0000::\nThe prefix-length for the range of addresses is</DOMANDA>
+      <RISPOSTA>/60</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>The prefix-length for the range of addresses is</DOMANDA>
+      <RISPOSTA>/60</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Match the subnetwork to a host address that would be included within the subnetwork. (Not all options are used.)</DOMANDA>
+      <RISPOSTA>192.168.1.32/27 --> 192.168.1.48\n\n192.168.1.64/27 --> 192.168.1.68\n\n192.168.1.96/27 --> 192.168.1.121</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. Match the network with the correct IP address and prefix that will satisfy the usable host addressing requirements for each network. (Not all options are used.) From right to left, network A has 100 hosts connected to the router on the right. The router on the right is connected via a serial link to the router on the left. The serial link represents network D with 2 hosts. The left router connects network B with 50 hosts and network C with 25 hosts.</DOMANDA>
+      <RISPOSTA>Network A --> 192.168.0.0 /25\n\nNetwork B --> 192.168.0.128 /26\n\nNetwork C --> 192.168.0.192 /27\n\nNetwork D --> 192.168.0.224 /30</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. Match the network with the correct IP address and prefix that will satisfy the usable host addressing requirements for each network. (Not all options are used.)</DOMANDA>
+      <RISPOSTA>Network A --> 192.168.0.0 /25\n\nNetwork B --> 192.168.0.128 /26\n\nNetwork C --> 192.168.0.192 /27\n\nNetwork D --> 192.168.0.224 /30</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>How many bits are in an IPv4 address?</DOMANDA>
+      <RISPOSTA>32</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two parts are components of an IPv4 address? (Choose two.)</DOMANDA>
+      <RISPOSTA>network portion\nhost portion</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the prefix length notation for the subnet mask 255.255.255.224?</DOMANDA>
+      <RISPOSTA>/27</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A message is sent to all hosts on a remote network. Which type of message is it?</DOMANDA>
+      <RISPOSTA>directed broadcast</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What two statements describe characteristics of Layer 3 broadcasts? (Choose two.)</DOMANDA>
+      <RISPOSTA>Routers create broadcast domains.\nA router will not forward any type of Layer 3 broadcast packet.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which network migration technique encapsulates IPv6 packets inside IPv4 packets to carry them over IPv4 network infrastructures?</DOMANDA>
+      <RISPOSTA>tunneling</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two statements are correct about IPv4 and IPv6 addresses? (Choose two.)</DOMANDA>
+      <RISPOSTA>IPv6 addresses are represented by hexadecimal numbers.\nIPv4 addresses are 32 bits in length.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which IPv6 address is most compressed for the full FE80:0:0:0:2AA:FF:FE9A:4CA3 address?</DOMANDA>
+      <RISPOSTA>FE80::2AA:FF:FE9A:4CA3</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two types of IPv6 unicast addresses? (Choose two.)</DOMANDA>
+      <RISPOSTA>loopback\nlink-local</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are three parts of an IPv6 global unicast address? (Choose three.)</DOMANDA>
+      <RISPOSTA>a global routing prefix that is used to identify the network portion of the address that has been provided by an ISP\na subnet ID that is used to identify networks inside of the local enterprise site\nan interface ID that is used to identify the local host on the network</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>An IPv6 enabled device sends a data packet with the destination address of FF02::1. What is the target of this packet?</DOMANDA>
+      <RISPOSTA>all IPv6 enabled nodes on the local link</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>When a Cisco router is being moved from an IPv4 network to a complete IPv6 environment, which series of commands would correctly enable IPv6 forwarding and interface addressing?</DOMANDA>
+      <RISPOSTA>Router# configure terminal\nRouter(config)# interface fastethernet 0/0\nRouter(config-if)# ipv6 address 2001:db8:bced:1::9/64\nRouter(config-if)# no shutdown\nRouter(config-if)# exit\nRouter(config)# ipv6 unicast-routing</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two ICMP messages are used by both IPv4 and IPv6 protocols? (Choose two.)?</DOMANDA>
+      <RISPOSTA>route redirection\nprotocol unreachable</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>When an IPv6 enabled host needs to discover the MAC address of an intended IPv6 destination, which destination address is used by the source host in the NS message?</DOMANDA>
+      <RISPOSTA>solicited-node multicast address</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>When will a router drop a traceroute packet?</DOMANDA>
+      <RISPOSTA>when the value in the TTL field reaches zero</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is indicated by a successful ping to the ::1 IPv6 address?</DOMANDA>
+      <RISPOSTA>IP is properly installed on the host.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two things can be determined by using the ping command? (Choose two.)</DOMANDA>
+      <RISPOSTA>the average time it takes a packet to reach the destination and for the response to return to the source\nwhether or not the destination device is reachable through the network</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>The decimal equivalent of the binary number 10010101 is</DOMANDA>
+      <RISPOSTA>149</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the decimal equivalent of the hex number 0x3F?</DOMANDA>
+      <RISPOSTA>63</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Open the PT Activity. Perform the tasks in the activity instructions and then answer the question.\nWhich message is displayed on the web server?</DOMANDA>
+      <RISPOSTA>Correct configuration!</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Match each IPv4 address to the appropriate address category. (Not all options are used.)</DOMANDA>
+      <RISPOSTA>Host address [A] 192.168.100.161/25 [A]\nHost address [B] 203.0.113.100/24 [B]\nHost address [C] 10.0.50.10/30 [C]\nNetwork address [D] 192.168.1.80/29 [D]\nNetwork address [E] 172.110.12.64/28 [E]\nNetwork address [F] 10.10.10.128/25 [F]\nBroadcast address [G] 10.0.0.159/27 [G]\nBroadcast address [H] 192.168.1.191/26 [H]</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Match each description with an appropriate IP address. (Not all options are used)</DOMANDA>
+      <RISPOSTA>TIPOLOGIA A:\n169.254.1.5 -> a link-local address\n192.0.2.153 -> a TEST-NET address\n240.2.6.255 -> an experimental address\n172.19.20.5 -> a private address\n127.0.0.1 -> a loopback address\n\nTIPOLOGIA B:\n192.31.18.123 -> a legacy class C address\n198.256.2.6 -> an invalid IPv4 address\n64.100.3.5 -> a legacy class A address\n224.2.6.255 -> a legacy class D address\n128.107.5.1 -> a legacy class B address</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which three addresses could be used as the destination address for OSPFv3 messages? (Choose three.)</DOMANDA>
+      <RISPOSTA>FE80::1\nFF02::5\nFF02::6</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which wildcard mask would be used to advertise the 192.168.5.96/27 network as part of an OSPF configuration?</DOMANDA>
+      <RISPOSTA>0.0.0.31</RISPOSTA>
+    </RICHIESTA>
+  </CISCO>
+  <CISCO capitolo="10">
+	<RICHIESTA>
+      <DOMANDA>Which two definitions accurately describe the associated application layer protocol? (Choose two.)</DOMANDA>
+      <RISPOSTA>Telnet – provides remote access to servers and networking devices\nDNS – resolves Internet names to IP addresses</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>The application layer of the TCP/IP model performs the functions of what three layers of the OSI model? (Choose three.)</DOMANDA>
+      <RISPOSTA>session\npresentation\napplication</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which layer in the TCP/IP model is used for formatting, compressing, and encrypting data?</DOMANDA>
+      <RISPOSTA>application</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What are two characteristics of the application layer of the TCP/IP model? (Choose two.)</DOMANDA>
+      <RISPOSTA>the creation and maintenance of dialogue between source and destination applications\nclosest to the end user</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>A manufacturing company subscribes to certain hosted services from its ISP. The services that are required include hosted world wide web, file transfer, and e-mail. Which protocols represent these three key applications? (Choose three.)</DOMANDA>
+      <RISPOSTA>FTP\nHTTP\nSMTP</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What is an example of network communication that uses the client-server model?</DOMANDA>
+      <RISPOSTA>A workstation initiates a DNS request when the user types www.cisco.com in the address bar of a web browser</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Two students are working on a network design project. One student is doing the drawing, while the other student is writing the proposal. The drawing is finished and the student wants to share the folder that contains the drawing so that the other student can access the file and copy it to a USB drive. Which networking model is being used?</DOMANDA>
+      <RISPOSTA>peer-to-peer</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What do the client/server and peer-to-peer network models have in common?</DOMANDA>
+      <RISPOSTA>Both models support devices in server and client roles.</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What is an advantage for small organizations of adopting IMAP instead of POP?</DOMANDA>
+      <RISPOSTA>Messages are kept in the mail servers until they are manually deleted from the email client.</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which application layer protocol uses message types such as GET, PUT, and POST?</DOMANDA>
+      <RISPOSTA>HTTP</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>When retrieving email messages, which protocol allows for easy, centralized storage and backup of emails that would be desirable for a small- to medium-sized business?</DOMANDA>
+      <RISPOSTA>IMAP</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which three statements describe a DHCP Discover message? (Choose three.)</DOMANDA>
+      <RISPOSTA>The destination IP address is 255.255.255.255.\nAll hosts receive the message, but only a DHCP server replies.\nThe message comes from a client seeking an IP address.</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What part of the URL, http://www.cisco.com/index.html, represents the top-level DNS domain?</DOMANDA>
+      <RISPOSTA>.com</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which two tasks can be performed by a local DNS server? (Choose two.)</DOMANDA>
+      <RISPOSTA>mapping name-to-IP addresses for internal hosts\nforwarding name resolution requests between servers</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which phrase describes an FTP daemon?</DOMANDA>
+      <RISPOSTA>a program that is running on an FTP server</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which statement is true about FTP?</DOMANDA>
+      <RISPOSTA>The client can download data from or upload data to the server.</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What is true about the Server Message Block protocol?</DOMANDA>
+      <RISPOSTA>Clients establish a long term connection to servers.</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which application layer protocol is used to provide file-sharing and print services to Microsoft applications?</DOMANDA>
+      <RISPOSTA>SMB</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What is the acronym for the protocol that is used when securely communicating with a web server?</DOMANDA>
+      <RISPOSTA>HTTPS</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>The HTTP message type used by the client to request data from the web server is the  message.</DOMANDA>
+      <RISPOSTA>GET</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Perform the tasks in the activity instructions and then answer the question.\nWhich PC or PCs are sending FTP packets to the server?</DOMANDA>
+      <RISPOSTA>PC_2</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Refer to the exhibit. What command was used to resolve a given host name by querying the name servers?</DOMANDA>
+      <RISPOSTA>nslookup</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Match a statement to the related network model. (Not all options are used.)</DOMANDA>
+      <RISPOSTA>peer-to-peer network:\nno dedicated server is required\nclient and server roles are set on a per request basis\n\npeer-to-peer aplication:\nrequires a specific user interface\na background service is required</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Match the function to the name of the application. (Not all options are used.)</DOMANDA>
+      <RISPOSTA>DHCP -> dynamically assigns IP address to clients\nDNS -> maps URLs to numerical addresses\nIMAP -> allows viewing of messages on email clients\nHTTP -> displays web pages\nSMTP -> sends email messages</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which three layers of the OSI model provide similar network services to those provided by the application layer of the TCP/IP model? (Choose three.)</DOMANDA>
+      <RISPOSTA>session layer\napplication layer\npresentation layer</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which two tasks are functions of the presentation layer? (Choose two.)</DOMANDA>
+      <RISPOSTA>compression\nencryption</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Select three protocols that operate at the Application Layer of the OSI model. (Choose three.)</DOMANDA>
+      <RISPOSTA>FTP\nPOP3\nDHCP</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>A manufacturing company subscribes to certain hosted services from their ISP. The services required include hosted world wide web, file transfer, and e-mail. Which protocols represent these three key applications? (Choose three.)</DOMANDA>
+      <RISPOSTA>FTP\nHTTP\nSMTP</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What are two characteristics of peer-to-peer networks? (Choose two.)</DOMANDA>
+      <RISPOSTA>decentralized resources\nresource sharing without a dedicated server</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which two actions are taken by SMTP if the destination email server is busy when email messages are sent? (Choose two.)</DOMANDA>
+      <RISPOSTA>SMTP tries to send the messages at a later time.\nSMTP periodically checks the queue for messages and attempts to send them again.</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>A DHCP-enabled client PC has just booted. During which two steps will the client PC use broadcast messages when communicating with a DHCP server? (Choose two.)</DOMANDA>
+      <RISPOSTA>DHCPDISCOVER\nDHCPREQUEST</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>A user accessed the game site www.nogamename.com last week. The night before the user accesses the game site again, the site administrator changes the site IP address. What will be the consequence of that action for the user?</DOMANDA>
+      <RISPOSTA>The user will access the site without problems.</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which DNS server in the DNS hierarchy would be considered authoritative for the domain name records of a company named netacad?</DOMANDA>
+      <RISPOSTA>netacad.com</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>When would it be more efficient to use SMB to transfer files instead of FTP?</DOMANDA>
+      <RISPOSTA>when downloading large numbers of files from the same server</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Match the DNS record type to the corresponding description. (Not all options are used.)</DOMANDA>
+      <RISPOSTA>A --> end device address\nNS --> Authoritative name server\nCNAME --> canonical name\nNS --> mail exchange record</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Match the purpose with its DHCP message type. (Not all options are used.)</DOMANDA>
+      <RISPOSTA>a message that is used to identify the explicit server and lease offer to accept --> DHCPREQUEST\na message that is used to locate any available DHCP server on a network --> DHCPDISCOVER\na message that is used to suggest a lease to a client --> DHCPOFFER\na message that is used to acknowledge that the lease is successful --> DHCPACK</RISPOSTA>
+    </RICHIESTA>
+  </CISCO>
+  <CISCO capitolo="11">
+    <RICHIESTA>
+      <DOMANDA>A newly hired network technician is given the task of ordering new hardware for a small business with a large growth forecast. Which primary factor should the technician be concerned with when choosing the new devices?</DOMANDA>
+      <RISPOSTA>devices with support for modularity</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which network design consideration would be more important to a large corporation than to a small business?</DOMANDA>
+      <RISPOSTA>redundancy</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two traffic types require delay sensitive delivery? (Choose two.)</DOMANDA>
+      <RISPOSTA>voice\nvideo</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator for a small company is contemplating how to scale the network over the next three years to accommodate projected growth. Which three types of information should be used to plan for network growth? (Choose three.)</DOMANDA>
+      <RISPOSTA>documentation of the current physical and logical topologies\nanalysis of the network traffic based on protocols, applications, and services used on the network\ninventory of the devices that are currently used on the network</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two statements describe how to assess traffic flow patterns and network traffic types using a protocol analyzer? (Choose two.)</DOMANDA>
+      <RISPOSTA>Capture traffic during peak utilization times to get a good representation of the different traffic types.\nPerform the capture on different network segments.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Some routers and switches in a wiring closet malfunctioned after an air conditioning unit failed. What type of threat does this situation describe?</DOMANDA>
+      <RISPOSTA>environmental</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which type of network threat is intended to prevent authorized users from accessing resources? </DOMANDA>
+      <RISPOSTA>DoS attacks</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two actions can be taken to prevent a successful network attack on an email server account? (Choose two.)</DOMANDA>
+      <RISPOSTA>Never send the password through the network in a clear text.\nLimit the number of unsuccessful attempts to log in to the server.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which firewall feature is used to ensure that packets coming into a network are legitimate responses initiated from internal hosts?</DOMANDA>
+      <RISPOSTA>stateful packet inspection</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the purpose of the network security authentication function?</DOMANDA>
+      <RISPOSTA>to require users to prove who they are</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator is issuing the login block-for 180 attempts 2 within 30 command on a router. Which threat is the network administrator trying to prevent?</DOMANDA>
+      <RISPOSTA>a user who is trying to guess a password to access the router</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two steps are required before SSH can be enabled on a Cisco router? (Choose two.)</DOMANDA>
+      <RISPOSTA>Give the router a host name and domain name.\nGenerate a set of secret keys to be used for encryption and decryption.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. Baseline documentation for a small company had ping round trip time statistics of 36/97/132 between hosts H1 and H3. Today the network administrator checked connectivity by pinging between hosts H1 and H3 that resulted in a round trip time of 1458/2390/6066. What does this indicate to the network administrator?</DOMANDA>
+      <RISPOSTA>Something is causing a time delay between the networks.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>When should an administrator establish a network baseline?</DOMANDA>
+      <RISPOSTA>at regular intervals over a period of time</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. An administrator is trying to troubleshoot connectivity between PC1 and PC2 and uses the tracert command from PC1 to do it. Based on the displayed output, where should the administrator begin troubleshooting?</DOMANDA>
+      <RISPOSTA>R1</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which statement is true about CDP on a Cisco device?</DOMANDA>
+      <RISPOSTA>CDP can be disabled globally or on a specific interface.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator for a small campus network has issued the show ip interface brief command on a switch. What is the administrator verifying with this command?</DOMANDA>
+      <RISPOSTA>the status of the switch interfaces and the address configured on interface vlan 1</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network technician issues the arp -d * command on a PC after the router that is connected to the LAN is reconfigured. What is the result after this command is issued?</DOMANDA>
+      <RISPOSTA>The ARP cache is cleared.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA> defines the protocols and technologies that implement the transmission of voice data over an IP network</DOMANDA>
+      <RISPOSTA>VoIP</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>The show  command provides information about the amount of free nvram and flash memory with the permissions for reading or writing data</DOMANDA>
+      <RISPOSTA>file systems</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>The  command that is issued on a router is used to verify the value of the software configuration register.</DOMANDA>
+      <RISPOSTA>show version</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network technician issues the C:\> tracert -6 www.cisco.com command on a Windows PC. What is the purpose of the -6 command option?</DOMANDA>
+      <RISPOSTA>It forces the trace to use IPv6.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which command should be used on a Cisco router or switch to allow log messages to be displayed on remotely connected sessions using Telnet or SSH?</DOMANDA>
+      <RISPOSTA>terminal monitor</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Match the type of information security threat to the scenario.</DOMANDA>
+      <RISPOSTA>installing virus code to destroy surveillance recordings for certain days -> data loss\n\npretending to be someone else by using stolen personal information to apply for a credit card -> identity theft\n\npreventing userd from accessing a website by sending a large number of link requests in a short period -> disruption of service\n\nobtaining trade secret documents illegally -> information theft</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the purpose of using SSH to connect to a router?</DOMANDA>
+      <RISPOSTA>It allows a secure remote connection to the router command line interface.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the purpose of issuing the commands cd nvram: then dir at the privilege exec mode of a router?</DOMANDA>
+      <RISPOSTA>to list the content of the NVRAM</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which command will backup the configuration that is stored in NVRAM to a TFTP server?</DOMANDA>
+      <RISPOSTA>copy startup-config tftp</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which protocol supports rapid delivery of streaming media?</DOMANDA>
+      <RISPOSTA>RTP</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>How should traffic flow be captured in order to best understand traffic patterns in a network?</DOMANDA>
+      <RISPOSTA>during peak utilization times</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator checks the security log and notices there was unauthorized access to an internal file server over the weekend. Upon further investigation of the file system log, the administrator notices several important documents were copied to a host located outside of the company. What kind of threat is represented in this scenario?</DOMANDA>
+      <RISPOSTA>information theft</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two actions can be taken to prevent a successful attack on an email server account? (Choose two.)</DOMANDA>
+      <RISPOSTA>Never send the password through the network in a clear text.\nLimit the number of unsuccessful attempts to log in to the server.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which type of network attack involves the disabling or corruption of networks, systems, or services?</DOMANDA>
+      <RISPOSTA>denial of service attacks</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator has determined that various computers on the network are infected with a worm. Which sequence of steps should be followed to mitigate the worm attack?</DOMANDA>
+      <RISPOSTA>containment, inoculation, quarantine, and treatment</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is a security feature of using NAT on a network?</DOMANDA>
+      <RISPOSTA>allows internal IP addresses to be concealed from external users</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A ping fails when performed from router R1 to directly connected router R2. The network administrator then proceeds to issue the show cdp neighbors command. Why would the network administrator issue this command if the ping failed between the two routers?</DOMANDA>
+      <RISPOSTA>The network administrator wants to verify Layer 2 connectivity.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>If a configuration file is saved to a USB flash drive attached to a router, what must be done by the network administrator before the file can be used on the router?</DOMANDA>
+      <RISPOSTA>Edit the configuration file with a text editor.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two statements about a service set identifier (SSID) are true? (Choose two.)</DOMANDA>
+      <RISPOSTA>tells a wireless device to which WLAN it belongs\nall wireless devices on the same WLAN must have the same SSID</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What do WLANs that conform to IEEE 802.11 standards allow wireless users to do?</DOMANDA>
+      <RISPOSTA>connect wireless hosts to hosts or services on a wired Ethernet network</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which WLAN security protocol generates a new dynamic key each time a client establishes a connection with the AP?</DOMANDA>
+      <RISPOSTA>WPA</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two statements characterize wireless network security? (Choose two.)</DOMANDA>
+      <RISPOSTA>With SSID broadcast disabled, an attacker must know the SSID to connect.\nUsing the default IP address on an access point makes hacking easier.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Open the PT Activity. Perform the tasks in the activity instructions and then answer the question.\nHow long will a user be blocked if the user exceeds the maximum allowed number of unsuccessful login attempts?</DOMANDA>
+      <RISPOSTA>3 minutes</RISPOSTA>
+    </RICHIESTA>
+  </CISCO>
+  <CISCO capitolo="FINAL">
+    <RICHIESTA>
+      <DOMANDA>What is a function of the data link layer?</DOMANDA>
+      <RISPOSTA>provides for the exchange of data over a common local media</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which communication tool allows real-time collaboration?</DOMANDA>
+      <RISPOSTA>instant messaging</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A host is accessing a Web server on a remote network. Which three functions are performed by intermediary network devices during this conversation? (Choose three.)</DOMANDA>
+      <RISPOSTA>regenerating data signals\napplying security settings to control the flow of data\nnotifying other devices when errors occur</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. From which location did this router load the IOS? </DOMANDA>
+      <RISPOSTA>flash memory</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. Which action will be successful?</DOMANDA>
+      <RISPOSTA>PC2 can send a ping to 192.168.1.1.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Port numbers ranging from 0 to 1023 are considered to be  ports.</DOMANDA>
+      <RISPOSTA>Well Known</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>ISOC, IANA, EIA, and IEEE represent  organizations which help to promote and maintain an open Internet.</DOMANDA>
+      <RISPOSTA>standards</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Refer to the exhibit. An administrator is trying to configure the switch but receives the error message that is displayed in the exhibit. What is the problem?</DOMANDA>
+      <RISPOSTA>The administrator must first enter privileged EXEC mode before issuing the command.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A company is expanding its business to other countries. All branch offices must remain connected to corporate headquarters at all times. Which network technology is required to support this requirement?</DOMANDA>
+      <RISPOSTA>WAN</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator is upgrading a small business network to give high priority to real-time applications traffic. What two types of network services is the network administrator trying to accommodate? (Choose two.)</DOMANDA>
+      <RISPOSTA>voice\nvideo</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Match the situation with the appropriate use of network media.</DOMANDA>
+      <RISPOSTA>Copper Cables:\nhorizontal cabling structure\ndesktop PCs in an enterprise office\n\nFiber Optic:\nbackbone cabling in an enterprise\nlong-haul networks\n\nWireless:\nguest access in a coffee shop\nwaiting rooms in a hospital</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which IPv4 address can be pinged to test the internal TCP/IP operation of a host?</DOMANDA>
+      <RISPOSTA>127.0.0.1</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What three application layer protocols are part of the TCP/IP protocol suite? (Choose three.)</DOMANDA>
+      <RISPOSTA>DHCP\nDNS\nFTP</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two protocols function at the internet layer? (Choose two)</DOMANDA>
+      <RISPOSTA>ICMP\nIP</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which publicly available resources describe protocols, processes, and technologies for the Internet but do not give implementation details?</DOMANDA>
+      <RISPOSTA>Request for Comments</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which address on a PC does not change, even if the PC is moved to a different network?</DOMANDA>
+      <RISPOSTA>MAC address</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the protocol that is used to discover a physical address from a known logical address and what message type does it use?</DOMANDA>
+      <RISPOSTA>ARP, broadcast</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What will happen if the default gateway address is incorrectly configured on a host?</DOMANDA>
+      <RISPOSTA>The host cannot communicate with hosts in other networks.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is an important function of the physical layer of the OSI model?</DOMANDA>
+      <RISPOSTA>It encodes frames into electrical, optical, or radio wave signals.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two statements describe the characteristics of fiber-optic cabling? (Choose two.)</DOMANDA>
+      <RISPOSTA>Fiber-optic cabling does not conduct electricity\nFiber-optic cabling is primarily used as backbone cabling.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is contained in the trailer of a data-link frame?</DOMANDA>
+      <RISPOSTA>error detection</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Refer to the exhibit. A ping to PC3 is issued from PC0, PC1, and PC2 in this exact order. Which MAC addresses will be contained in the S1 MAC address table that is associated with the Fa0/1 port?</DOMANDA>
+      <RISPOSTA>just PC0 and PC1 MAC addresses</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>How does a Layer 3 switch differ from a Layer 2 switch?</DOMANDA>
+      <RISPOSTA>An IP address can be assigned to a physical port of a Layer 3 switch. However, this is not supported in Layer 2 switches.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the purpose of the routing process?</DOMANDA>
+      <RISPOSTA>to select the paths that are used to direct traffic to destination networks</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which technology provides a solution to IPv4 address depletion by allowing multiple devices to share one public IP address?</DOMANDA>
+      <RISPOSTA>NAT</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. Consider the IP address configuration shown from PC1. What is a description of the default gateway address?</DOMANDA>
+      <RISPOSTA>It is the IP address of the Router1 interface that connects the PC1 LAN to Router1.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which of the following are primary functions of a router? (Choose two.)</DOMANDA>
+      <RISPOSTA>packet switching\npath selection</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two statements correctly describe a router memory type and its contents? (Choose two.)</DOMANDA>
+      <RISPOSTA>ROM is nonvolatile and contains basic diagnostic software.\nRAM is volatile and stores the IP routing table.</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>In which default order will a router search for startup configuration information?</DOMANDA>
+      <RISPOSTA>NVRAM, TFTP, setup mode</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What happens when part of an Internet VoIP transmission is not delivered to the destination?</DOMANDA>
+      <RISPOSTA>The transmission continues without the missing portion.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which three IP addresses are private ?</DOMANDA>
+      <RISPOSTA>10.172.168.1\n172.20.4.4\n192.168.5.254</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which three IP addresses are private ? (Choose three.)</DOMANDA>
+      <RISPOSTA>10.172.168.1\n172.20.4.4\n192.168.5.254</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>How many bits make up the single IPv6 hextet :10CD:?</DOMANDA>
+      <RISPOSTA>16</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the effect of configuring the ipv6 unicast-routing command on a router?</DOMANDA>
+      <RISPOSTA>to enable the router as an IPv6 router</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which group of IPv6 addresses cannot be allocated as a host source address?</DOMANDA>
+      <RISPOSTA>FF00::/8</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What is the purpose of ICMP messages?</DOMANDA>
+      <RISPOSTA>to provide feedback of IP packet transmissions</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. A technician has configured a user workstation with the IP address and default subnet masks that are shown. Although the user can access all local LAN resources, the user cannot access any Internet sites by using either FQDN or IP addresses. Based upon the exhibit, what could account for this failure?</DOMANDA>
+      <RISPOSTA>The default gateway address in incorrect.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator needs to monitor network traffic to and from servers in a data center. Which features of an IP addressing scheme should be applied to these devices?</DOMANDA>
+      <RISPOSTA>predictable static IP addresses for easier identification</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. Which IP addressing scheme should be changed?</DOMANDA>
+      <RISPOSTA>Site 2</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two notations are useable nibble boundaries when subnetting in IPv6? (Choose two.)</DOMANDA>
+      <RISPOSTA>/64\n/68</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A host PC has just booted and is attempting to lease an address through DHCP. Which two messages will the client typically broadcast on the network? (Choose two.)</DOMANDA>
+      <RISPOSTA>DHCPDISCOVER\nDHCPREQUEST</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the purpose of the network security accounting function?</DOMANDA>
+      <RISPOSTA>to keep track of the actions of a user</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Refer to the exhibit. The network administrator enters these commands into the R1 router:\nR1# copy running-config tftp\nAddress or name of remote host [ ]?\nWhen the router prompts for an address or remote host name, what IP address should the administrator enter at the prompt?</DOMANDA>
+      <RISPOSTA>192.168.11.252</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Match the IPv6 address to the IPv6 address type. (Not all options are used.)</DOMANDA>
+      <RISPOSTA>Link-Local:\nFE80:0:56BA:FFEE:A0B4:47FF:FE36:532B\nFE80::1\n\nMulticast:\nFF02::2\nFF02::1:FF3A:25C9\n\nGlobal Unicast:\n2001:DB8:10::12\n2001:DB8:a1:0B:C78::1</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What two preconfigured settings that affect security are found on most new wireless routers? (Choose two.)</DOMANDA>
+      <RISPOSTA>broadcast SSID\ndefault administrator password</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which type of wireless security generates dynamic encryption keys each time a client associates with an AP?</DOMANDA>
+      <RISPOSTA>WPA</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA> is a best-effort, connectionless application layer protocol that is used to transfer files.</DOMANDA>
+      <RISPOSTA>TFTP</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two components are necessary for a wireless client to be installed on a WLAN? (Choose two.)</DOMANDA>
+      <RISPOSTA>wireless NIC\nwireless client software</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Consider the following range of addresses:\n2001:0DB8:BC15:00A0:0000::\n2001:0DB8:BC15:00A1:0000::\n2001:0DB8:BC15:00A2:0000::\n…\n2001:0DB8:BC15:00AF:0000::\nThe prefix-length for the range of addresses is</DOMANDA>
+      <RISPOSTA>/60</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Match the phases to their correct stage in the router bootup process.</DOMANDA>
+      <RISPOSTA>stage 4\nNIENTE\nstage 3\nstage2\nstage1\n\nRISPOSTE NON AFFIDABILI, ATTENZIONE!</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A host is accessing an FTP server on a remote network. Which three functions are performed by intermediary network devices during this conversation? (Choose three.)</DOMANDA>
+      <RISPOSTA>regenerating data signals\napplying security settings to control the flow of data\nnotifying other devices when errors occur</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>When is a dial-up connection used to connect to an ISP?</DOMANDA>
+      <RISPOSTA>when a regular telephone line is used</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>On a school network, students are surfing the web, searching the library database, and attending an audio conference with their sister school in Japan. If network traffic is prioritized with QoS, how will the traffic be classified from highest priority to lowest priority?</DOMANDA>
+      <RISPOSTA>audio conference, database, HTTP</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>During normal operation, from which location do most Cisco routers run the IOS?</DOMANDA>
+      <RISPOSTA>RAM</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which keys act as a hot key combination that is used to interrupt an IOS process?</DOMANDA>
+      <RISPOSTA>Ctrl-Shift-6</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. An administrator wants to change the name of a brand new switch, using the hostname command as shown. What prompt will display after the command is issued?</DOMANDA>
+      <RISPOSTA>Switch(config)#</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>A technician uses the ping 127.0.0.1 command. What is the technician testing? </DOMANDA>
+      <RISPOSTA>the TCP/IP stack on a network host</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the correct order for PDU encapsulation?</DOMANDA>
+      <RISPOSTA>Frame Header | Network Header | Transport Header | Data | Frame Trailer</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which device should be used for enabling a host to communicate with another host on a different network?</DOMANDA>
+      <RISPOSTA>router</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network technician is measuring the transfer of bits across the company backbone for a mission critical application. The technician notices that the network throughput appears lower than the bandwidth expected. Which three factors could influence the differences in throughput? (Choose three.)</DOMANDA>
+      <RISPOSTA>the amount of traffic that is currently crossing the network\nthe type of traffic that is crossing the network\nthe latency that is created by the number of network devices that the data is crossing</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which characteristics describe fiber optic cable? (Choose two.)</DOMANDA>
+      <RISPOSTA>It is not affected by EMI or RFI.\nIt is the most expensive type of LAN cabling</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two features of a physical, star network topology? (Choose two.)</DOMANDA>
+      <RISPOSTA>It is straightforward to troubleshoot.\nIt is easy to add and remove end devices.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A frame is transmitted from one networking device to another. Why does the receiving device check the FCS field in the frame?</DOMANDA>
+      <RISPOSTA>to check the frame for possible transmission errors</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What will a Layer 2 switch do when the destination MAC address of a received frame is not in the MAC table?</DOMANDA>
+      <RISPOSTA>It forwards the frame out of all ports except for the port at which the frame was received.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which parameter does the router use to choose the path to the destination when there are multiple routes available?</DOMANDA>
+      <RISPOSTA>the lower metric value that is associated with the destination network</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two statements describe the functions or characteristics of ROM in a router? (Choose two.)</DOMANDA>
+      <RISPOSTA>maintains instructions for POST diagnostics\nstores bootstrap program</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which statement describes a characteristic of the Cisco router management ports?</DOMANDA>
+      <RISPOSTA>A console port is not used for packet forwarding.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What happens when part of an Internet radio transmission is not delivered to the destination?</DOMANDA>
+      <RISPOSTA>The transmission continues without the missing portion.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What types of addresses make up the majority of addresses within the /8 block IPv4 bit space?</DOMANDA>
+      <RISPOSTA>public addresses</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. What is the maximum TTL value that is used to reach the destination www.cisco.com?</DOMANDA>
+      <RISPOSTA>13</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>A company has a network address of 192.168.1.64 with a subnet mask of 255.255.255.192. The company wants to create two subnetworks that would contain 10 hosts and 18 hosts respectively. Which two networks would achieve that? (Choose two.)</DOMANDA>
+      <RISPOSTA>192.168.1.64/27\n192.168.1.96/28</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>In a network that uses IPv4, what prefix would best fit a subnet containing 100 hosts?</DOMANDA>
+      <RISPOSTA>/25</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which protocol supports rapid delivery of streaming media?</DOMANDA>
+      <RISPOSTA>Real-Time Transport Protocol</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Why would a network administrator use the tracert utility?</DOMANDA>
+      <RISPOSTA>to identify where a packet was lost or delayed on a network</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. What is the significance of the asterisk (*) in the exhibited output?</DOMANDA>
+      <RISPOSTA>The asterisk designates which file system is the default file system.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which WLAN security protocol generates a new dynamic key each time a client establishes a connection with the AP?</DOMANDA>
+      <RISPOSTA>WPA</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Point-to-point communications where both devices can transmit and receive on the medium at the same time are known as</DOMANDA>
+      <RISPOSTA>full-duplex</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Match each characteristic to the appropriate email protocol. (Not all options are used.)</DOMANDA>
+      <RISPOSTA>POP:\ndoes not require a centralized backup solution\nmail is deleted as it is downloaded\ndesirable for an ISP or large business\n\nIMAP:\ndownloades copies of email messages to the client\noriginal messages must be manually deleted\nrequires a larger amount of disk space</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A host is accessing a Telnet server on a remote network. Which three functions are performed by intermediary network devices during this conversation? (Choose three.)</DOMANDA>
+      <RISPOSTA>regenerating data signals\napplying security settings to control the flow of data\nnotifying other devices when errors occur</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. Which area would most likely be an extranet for the company network that is shown?</DOMANDA>
+      <RISPOSTA>area C</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Three office workers are using the corporate network. The first employee uses a web browser to view a company web page in order to read some announcements. The second employee accesses the corporate database to perform some financial transactions. The third employee participates in an important live audio conference with other office workers in branch offices. If QoS is implemented on this network, what will be the priorities from highest to lowest of the different data types?</DOMANDA>
+      <RISPOSTA>audio conference, financial transactions, web page</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>During normal operation, from which location do most Cisco switches and routers run the IOS?</DOMANDA>
+      <RISPOSTA>RAM</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator is making changes to the configuration of a router. After making the changes and verifying the results, the administrator issues the copy running-config startup-config command. What will happen after this command executes?</DOMANDA>
+      <RISPOSTA>The configuration will load when the router is restarted.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What information does the loopback test provide?</DOMANDA>
+      <RISPOSTA>The TCP/IP stack on the device is working correctly.</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What happens when a switch receives a frame and the calculated CRC value is different than the value that is in the FCS field?</DOMANDA>
+      <RISPOSTA>The switch drops the frame.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which destination address is used in an ARP request frame?</DOMANDA>
+      <RISPOSTA>FFFF.FFFF.FFFF</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the auto-MDIX feature on a switch?</DOMANDA>
+      <RISPOSTA>the automatic configuration of an interface for a straight-through or a crossover Ethernet cable connection</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are the two main components of Cisco Express Forwarding (CEF)? (Choose two.)</DOMANDA>
+      <RISPOSTA>adjacency tables\nforwarding information base (FIB)</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which statement describes the sequence of processes executed by a router when it receives a packet from a host to be delivered to a host on another network?</DOMANDA>
+      <RISPOSTA>It de-encapsulates the packet, selects the appropriate path, and encapsulates the packet to forward it toward the destination host</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. Router R1 has two interfaces that were configured with correct IP addresses and subnet masks. Why does the show ip route command output not display any information about the directly connected networks?</DOMANDA>
+      <RISPOSTA>The no shutdown command was not issued on these interfaces.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What happens when part of an Internet television transmission is not delivered to the destination?</DOMANDA>
+      <RISPOSTA>The transmission continues without the missing portion.</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which three statements characterize the transport layer protocols? (Choose three.)</DOMANDA>
+      <RISPOSTA>TCP and UDP port numbers are used by application layer protocols.\nTCP uses windowing and sequencing to provide reliable transfer of data.\nTCP is a connection-oriented protocol. UDP is a connectionless protocol.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which statement is true regarding the UDP client process during a session with a server?</DOMANDA>
+      <RISPOSTA>Datagrams that arrive in a different order than that in which they were sent are not placed in order.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two components are configured via software in order for a PC to participate in a network environment? (Choose two.)</DOMANDA>
+      <RISPOSTA>IP address\nsubnet mask</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two reasons generally make DHCP the preferred method of assigning IP addresses to hosts on large networks? (Choose two.)</DOMANDA>
+      <RISPOSTA>It eliminates most address configuration errors.\nIt reduces the burden on network support staff.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the subnet address for the address 2001:DB8:BC15:A:12AB::1/64?</DOMANDA>
+      <RISPOSTA>2001:DB8:BC15:A::0</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the purpose of the network security authentication function?</DOMANDA>
+      <RISPOSTA>to require users to prove who they are</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which type of wireless security makes use of dynamic encryption keys each time a client associates with an AP?</DOMANDA>
+      <RISPOSTA>WPA</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Open the PT activity. Perform the tasks in the activity instructions and then fill in the blank.</DOMANDA>
+      <RISPOSTA>winner</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>The Server0 message is</DOMANDA>
+      <RISPOSTA>winner</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which field in an IPv4 packet header will typically stay the same during its transmission?</DOMANDA>
+      <RISPOSTA>Destination Address</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Launch PT – Hide and Save PT</DOMANDA>
+      <RISPOSTA>The Server0 message is winner</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Open the PT Activity. Perform the tasks in the activity instructions and then answer the question.\nWhich IPv6 address is assigned to the Serial0/0/0 interface on RT2?</DOMANDA>
+      <RISPOSTA>2001:db8:abc:5::1</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What must be configured to enable Cisco Express Forwarding (CEF) on most Cisco devices that perform Layer 3 switching?</DOMANDA>
+      <RISPOSTA>CEF is enabled by default, so no configuration is necessary.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the purpose of adjacency tables as used in Cisco Express Forwarding (CEF)?</DOMANDA>
+      <RISPOSTA>to maintain Layer 2 next-hop addresses</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which statement describes a characteristic of the network layer in the OSI model?</DOMANDA>
+      <RISPOSTA>Its protocols specify the packet structure and processing used to carry the data from one host to another.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A user gets an IP address of 192.168.0.1 from the company network administrator. A friend of the user at a different company gets the same IP address on another PC. How can two PCs use the same IP address and still reach the Internet, send and receive email, and search the web?</DOMANDA>
+      <RISPOSTA>ISPs use Network Address Translation to change a user IP address into an address that can be used on the Internet.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Why does HTTP use TCP as the transport layer protocol?</DOMANDA>
+      <RISPOSTA>because HTTP requires reliable delivery</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the valid most compressed format possible of the IPv6 address 2001:0DB8:0000:AB00:0000:0000:0000:1234?</DOMANDA>
+      <RISPOSTA>2001:DB8:0:AB00::1234</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What field content is used by ICMPv6 to determine that a packet has expired?</DOMANDA>
+      <RISPOSTA>Hop Limit field</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which firewall technique blocks incoming packets unless they are responses to internal requests?</DOMANDA>
+      <RISPOSTA>stateful packet inspection</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network technician is investigating network connectivity from a PC to a remote host with the address 10.1.1.5. Which command issued on the PC will return to the technician the complete path to the remote host?</DOMANDA>
+      <RISPOSTA>tracert 10.1.1.5</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>To prevent faulty network devices from carrying dangerous voltage levels, equipment must be  correctly</DOMANDA>
+      <RISPOSTA>grounded</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is a possible hazard that can be caused by network cables in a fire?</DOMANDA>
+      <RISPOSTA>The cable insulation could be flammable.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What device is commonly used to verify a UTP cable?</DOMANDA>
+      <RISPOSTA>a cable tester</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What needs to be checked when testing a UTP network cable?</DOMANDA>
+      <RISPOSTA>wire map</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. A ping to PC2 is issued from PC0, PC1, and PC3 in this exact order. Which MAC addresses will be contained in the S1 MAC address table that is associated with the Fa0/1 port?</DOMANDA>
+      <RISPOSTA>just PC0 and PC1 MAC addresses</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which function is provided by TCP?</DOMANDA>
+      <RISPOSTA>detection of missing packets</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What does a router use to determine where to send data it receives from the network?</DOMANDA>
+      <RISPOSTA>a routing table</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Which router interface should be used for direct remote access to the router via a modem?</DOMANDA>
+      <RISPOSTA>an AUX port</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A technician is configuring a router to allow for all forms of management access. As part of each different type of access, the technician is trying to type the command login. Which configuration mode should be entered to do this task?</DOMANDA>
+      <RISPOSTA>any line configuration mode</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which three statements characterize the transport layer protocols? (Choose three.)</DOMANDA>
+      <RISPOSTA>TCP and UDP port numbers are used by application layer protocols.\nTCP uses windowing and sequencing to provide reliable transfer of data.\nTCP is a connection-oriented protocol. UDP is a connectionless protocol.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. A TCP segment from a server has been captured by Wireshark, which is running on a host. What acknowledgement number will the host return for the TCP segment that has been received?</DOMANDA>
+      <RISPOSTA>306</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which statement is true about an interface that is configured with the IPv6 address command?</DOMANDA>
+      <RISPOSTA>A link-local IPv6 address is automatically configured on the interface.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. An administrator must send a message to everyone on the router A network. What is the broadcast address for network 172.16.16.0/22?</DOMANDA>
+      <RISPOSTA>172.16.19.255</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator is variably subnetting a given block of IPv4 addresses. Which combination of network addresses and prefix lengths will make the most efficient use of addresses when the need is for 2 subnets capable of supporting 10 hosts and 1 subnet that can support 6 hosts?</DOMANDA>
+      <RISPOSTA>10.1.1.128/28\n10.1.1.144/28\n10.1.1.160/29</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>How many additional bits should be borrowed from a /26 subnet mask in order to create subnets for WAN links that need only 2 useable addresses?</DOMANDA>
+      <RISPOSTA>4</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator requires access to manage routers and switches locally and remotely. Match the description to the access method.</DOMANDA>
+      <RISPOSTA>remote access method that uses encryption\npreffered out-of-band access method\nremote access via a dialup connection\nunsecure remote access</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. The administrator configured the access to the console and the vty lines of a router. Which conclusion can be drawn from this configuration?</DOMANDA>
+      <RISPOSTA>Because the IOS includes the login command on the vty lines by default, access to the device via Telnet will require authentication.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>An administrator issued the service password-encryption command to apply encryption to the passwords configured for enable password, vty, and console lines. What will be the consequences if the administrator later issues the no service password-encryption command?</DOMANDA>
+      <RISPOSTA>It will not reverse any encryption.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>After making configuration changes, a network administrator issues a copy running-config startup-config command in a Cisco switch. What is the result of issuing this command?</DOMANDA>
+      <RISPOSTA>The new configuration will be loaded if the switch is restarted.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two features of ARP? (Choose two.)</DOMANDA>
+      <RISPOSTA>If a host is ready to send a packet to a local destination device and it has the IP address but not the MAC address of the destination, it generates an ARP broadcast.\nIf a device receiving an ARP request has the destination IPv4 address, it responds with an ARP reply.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator is enabling services on a newly installed server. Which two statements describe how services are used on a server? (Choose two.)</DOMANDA>
+      <RISPOSTA>A port is considered to be open when it has an active server application that is assigned to it.\nServer security can be improved by closing ports that are associated with unused services.</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>Given the binary address of 11101100 00010001 00001100 00001010, which address does this represent in dotted decimal format?</DOMANDA>
+      <RISPOSTA>236.17.12.10</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A particular telnet site does not appear to be responding on a Windows 7 computer. What command could the technician use to show any cached DNS entries for this web page?</DOMANDA>
+      <RISPOSTA>ipconfig /displaydns</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Network devices come in two physical configurations. Devices that have expansion slots that provide the flexibility to add new modules have a  configuration.</DOMANDA>
+      <RISPOSTA>Modular</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. What is the maximum TIL value that is used to reach the destination www.cisco.com?</DOMANDA>
+      <RISPOSTA>13</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which statement is true about DHCP operation?</DOMANDA>
+      <RISPOSTA>When a device that is configured to use DHCP boots, the client broadcasts a DHCPDISCOVER message to identify any available DHCP servers on the networK.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which type of wireless security is easily compromised?</DOMANDA>
+      <RISPOSTA>WEP</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator notices that the throughput on the network appears lower than expected when compared to the end-to-end network bandwidth. Which three factors can explain this difference? (Choose three.)</DOMANDA>
+      <RISPOSTA>the amount of traffic\nthe type of traffic\nthe number and type of network devices that the data is crossing</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>A host PC is attempting to lease an address through DHCP. What message is sent by the server to the client know it is able to use the provided IP information?</DOMANDA>
+      <RISPOSTA>DHCPOFFER</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator is configuring access control to switch SW1. If the administrator uses console line to connect to the switch, which password is needed to access user EXEC mode?</DOMANDA>
+      <RISPOSTA>lineconin</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>How many bits would need to be borrowed if a network admin were given the IP addressing scheme of 172.16.0.0/16 and needed no more than 16 subnet with equal number of hosts?</DOMANDA>
+      <RISPOSTA>4</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>The PC2 will be able to ping</DOMANDA>
+      <RISPOSTA>The PC2 will be able to ping 192.168.1.1</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which statement best describes the operation of the File Transfer Protocol?</DOMANDA>
+      <RISPOSTA>An FTP server uses a source port number of 20 and a randomly generated destination port number during the establishment of control traffic with an FTP client.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A client is establishing a TCP session with a server. How is the acknowledgment number in the response segment to the client determined?</DOMANDA>
+      <RISPOSTA>The acknowledgment number field is modified by adding 1 to the randomly chosen initial sequence number in response to the client.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Why does layer 3 device perform the ANDing process on a destination IP and subnet Mask?</DOMANDA>
+      <RISPOSTA>to identify network address of destination host;</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>There was also a question about if you activated service password encryption in the past and you prompt "no service password encryption" what password are modified?</DOMANDA>
+      <RISPOSTA>no password at all;</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What type of communication rule would best describe CSMA/CD?</DOMANDA>
+      <RISPOSTA>access method</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the primary reason to subnet IPv6 prefixes?</DOMANDA>
+      <RISPOSTA>to create a hierarchical Layer 3 network design</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which statement describes data throughput?</DOMANDA>
+      <RISPOSTA>It is the measure of the bits transferred across the media over a given period of time.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Use a number.\nIPv4 multicast addresses are directly mapped to IEEE 802 (Ethernet) MAC addresses using the last ___4___ of the 28 available bits in the IPv4 multicast group address.</DOMANDA>
+      <RISPOSTA>Risposta?</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>How could a faulty network device create a source of hazard for a user? (Choose two.)</DOMANDA>
+      <RISPOSTA>It could stop functioning.\nIt could explode.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are three important considerations when planning the structure of an IP addressing scheme? (Choose three.)</DOMANDA>
+      <RISPOSTA>preventing duplication of addresses\nproviding and controlling access\nconserving addresses</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What is the metric value that is used to reach the 10.1.1.0 network in the following routing table entry? D 10.1.1.0/24 [90/2170112] via 209.165.200.226, 00:00:05, Serial0/0/0</DOMANDA>
+      <RISPOSTA>2170112</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two services or protocols use the preferred UDP protocol for fast transmission and low overhead? (Choose two)</DOMANDA>
+      <RISPOSTA>VoIP\nDNS</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What action does a DHCPv4 client take if it receives more than one DHCPOFFER from multiple DHCP servers?</DOMANDA>
+      <RISPOSTA>It sends a DHCPREQUEST that identifies which lease offer the client is accepting.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>To what legacy address class does the address 10.0.0.0 belong?</DOMANDA>
+      <RISPOSTA>Class A</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What type of communication medium is used with a wireless LAN connection?</DOMANDA>
+      <RISPOSTA>radio waves</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which method of IPv6 prefix assignment relies on the prefix contained in RA messages?</DOMANDA>
+      <RISPOSTA>SLAAC</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is a characteristic of DNS?</DOMANDA>
+      <RISPOSTA>DNS servers can cache recent queries to reduce DNS query traffic</RISPOSTA>
+    </RICHIESTA>
+	<RICHIESTA>
+      <DOMANDA>What is the prefix for the host address 2001:DB8:BC15:A:12AB::1/64?</DOMANDA>
+      <RISPOSTA>2001:DB8:BC15:A</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What information is maintained in the CEF adjacency table?</DOMANDA>
+      <RISPOSTA>MAC address to IPv4 address mappings</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is a characteristic of a fault tolerant network?</DOMANDA>
+      <RISPOSTA>a network that recovers quickly when a failure occurs and depends on redundancy to limit the impact of a failure</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Three bank employees are using the corporate network. The first employee uses a web browser to view a company web page in order to read some announcements. The second employee accesses the corporate database to perform some financial transactions. The third employee participates in an important live audio conference with other corporate managers in branch offices. If QoS is implemented on this network, what will be the priorities from highest to lowest of the different data types?</DOMANDA>
+      <RISPOSTA>audio conference, financial transactions, web page</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is a benefit of using cloud computing in networking?</DOMANDA>
+      <RISPOSTA>Network capabilities are extended without requiring investment in new infrastructure, personnel, or software.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the function of the shell in an OS?</DOMANDA>
+      <RISPOSTA>It interfaces between the users and the kernel.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which connection provides a secure CLI session with encryption to a Cisco switch?</DOMANDA>
+      <RISPOSTA>an SSH connection</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network technician is attempting to configure an interface by entering the following command: SanJose(config)# ip address 192.168.2.1 255.255.255.0. The command is rejected by the device. What is the reason for this?</DOMANDA>
+      <RISPOSTA>The command is being entered from the wrong mode of operation.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>An administrator uses the Ctrl-Shift-6 key combination on a switch after issuing the ping command. What is the purpose of using these keystrokes?</DOMANDA>
+      <RISPOSTA>to interrupt the ping process</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. A network administrator is configuring access control to switch SW1. If the administrator uses a console connection to connect to the switch, which password is needed to access user EXEC mode?</DOMANDA>
+      <RISPOSTA>lineconin</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>On which switch interface would an administrator configure an IP address so that the switch can be managed remotely?</DOMANDA>
+      <RISPOSTA>VLAN 1</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What protocol is responsible for controlling the size of segments and the rate at which segments are exchanged between a web client and a web server?</DOMANDA>
+      <RISPOSTA>TCP</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is an advantage to using a protocol that is defined by an open standard?</DOMANDA>
+      <RISPOSTA>It encourages competition and promotes choices.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two benefits of using a layered network model? (Choose two.)</DOMANDA>
+      <RISPOSTA>It assists in protocol design.\nIt prevents technology in one layer from affecting other layers.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two OSI model layers have the same functionality as two layers of the TCP/IP model? (Choose two.)</DOMANDA>
+      <RISPOSTA>network\ntransport</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which name is assigned to the transport layer PDU?</DOMANDA>
+      <RISPOSTA>segment</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator is troubleshooting connectivity issues on a server. Using a tester, the administrator notices that the signals generated by the server NIC are distorted and not usable. In which layer of the OSI model is the error categorized?</DOMANDA>
+      <RISPOSTA>physical layer</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator is measuring the transfer of bits across the company backbone for a mission critical financial application. The administrator notices that the network throughput appears lower than the bandwidth expected. Which three factors could influence the differences in throughput? (Choose three.)</DOMANDA>
+      <RISPOSTA>the amount of traffic that is currently crossing the network\nthe type of traffic that is crossing the network\nthe latency that is created by the number of network devices that the data is crossing</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is a characteristic of UTP cabling?</DOMANDA>
+      <RISPOSTA>cancellation</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two characteristics of fiber-optic cable? (Choose two.)</DOMANDA>
+      <RISPOSTA>It is not affected by EMI or RFI.\nIt is more expensive than UTP cabling is.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is a characteristic of the LLC sublayer?</DOMANDA>
+      <RISPOSTA>It places information in the frame allowing multiple Layer 3 protocols to use the same network interface and media.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network team is comparing physical WAN topologies for connecting remote sites to a headquarters building. Which topology provides high availability and connects some, but not all, remote sites?</DOMANDA>
+      <RISPOSTA>partial mesh</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What method is used to manage contention-based access on a wireless network?</DOMANDA>
+      <RISPOSTA>CSMA/CA</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are the three primary functions provided by Layer 2 data encapsulation? (Choose three.)</DOMANDA>
+      <RISPOSTA>data link layer addressing\ndetection of errors through CRC calculations\ndelimiting groups of bits into frames</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What will a host on an Ethernet network do if it receives a frame with a destination MAC address that does not match its own MAC address?</DOMANDA>
+      <RISPOSTA>It will discard the frame.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which frame forwarding method receives the entire frame and performs a CRC check to detect errors before forwarding the frame?</DOMANDA>
+      <RISPOSTA>store-and-forward switching</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. If host A sends an IP packet to host B, what will the destination address be in the frame when it leaves host A?</DOMANDA>
+      <RISPOSTA>BB:BB:BB:BB:BB:BB</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What addresses are mapped by ARP?</DOMANDA>
+      <RISPOSTA>destination MAC address to a destination IPv4 address</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two services provided by the OSI network layer? (Choose two.)</DOMANDA>
+      <RISPOSTA>routing packets toward the destination \nencapsulating PDUs from the transport layer</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two functions of NVRAM? (Choose two.)</DOMANDA>
+      <RISPOSTA>to retain contents when power is removed \nto store the startup configuration file</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. What will be the result of entering this configuration the next time a network administrator connects a console cable to the router and no additional commands have been entered?</DOMANDA>
+      <RISPOSTA>The administrator will be presented with the R1> prompt.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the dotted decimal representation of the IPv4 address 11001011.00000000.01110001.11010011?</DOMANDA>
+      <RISPOSTA>203.0.113.211</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are three characteristics of multicast transmission? (Choose three.)</DOMANDA>
+      <RISPOSTA>A single packet can be sent to a group of hosts.\nMulticast transmission can be used by routers to exchange routing information.\nRouters will not forward multicast addresses in the range of 224.0.0.0 to 224.0.0.255.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are the three ranges of IP addresses that are reserved for internal private use? (Choose three.)</DOMANDA>
+      <RISPOSTA>10.0.0.0/8\n172.16.0.0/12\n192.168.0.0/16</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What purpose does NAT64 serve in IPv6?</DOMANDA>
+      <RISPOSTA>It converts IPv6 packets into IPv4 packets.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the most compressed representation of the IPv6 address 2001:0000:0000:abcd:0000:0000:0000:0001?</DOMANDA>
+      <RISPOSTA>2001:0:0:abcd::1</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which range of link-local addresses can be assigned to an IPv6-enabled interface?</DOMANDA>
+      <RISPOSTA>FE80::/10</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>How many valid host addresses are available on an IPv4 subnet that is configured with a /26 mask?</DOMANDA>
+      <RISPOSTA>62</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A site administrator has been told that a particular network at the site must accommodate 126 hosts. Which subnet mask would be used that contains the required number of host bits?</DOMANDA>
+      <RISPOSTA>255.255.255.128</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which subnet would include the address 192.168.1.96 as a usable host address?</DOMANDA>
+      <RISPOSTA>192.168.1.64/26</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which statement is true about variable-length subnet masking?</DOMANDA>
+      <RISPOSTA>The size of each subnet may be different, depending on requirements.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which scenario describes a function provided by the transport layer?</DOMANDA>
+      <RISPOSTA>A student has two web browser windows open in order to access two web sites. The transport layer ensures the correct web page is delivered to the correct browser window.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A user opens three browsers on the same PC to access www.cisco.com to search for certification course information. The Cisco web server sends a datagram as a reply to the request from one of the web browsers. Which information is used by the TCP/IP protocol stack in the PC to identify which of the three web browsers should receive the reply?</DOMANDA>
+      <RISPOSTA>the destination port number</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two ways that TCP uses the sequence numbers in a segment? (Choose two.)</DOMANDA>
+      <RISPOSTA>to identify missing segments at the destination\nto reassemble the segments at the remote location</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two tasks are functions of the presentation layer? (Choose two.)</DOMANDA>
+      <RISPOSTA>compression\nencryption</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is a key characteristic of the peer-to-peer networking model?</DOMANDA>
+      <RISPOSTA>resource sharing without a dedicated server</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A technician can ping the IP address of the web server of a remote company but cannot successfully ping the URL address of the same web server. Which software utility can the technician use to diagnose the problem?</DOMANDA>
+      <RISPOSTA>nslookup</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which domain name would be an example of a top-level domain?</DOMANDA>
+      <RISPOSTA>.com</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A PC obtains its IP address from a DHCP server. If the PC is taken off the network for repair, what happens to the IP address configuration?</DOMANDA>
+      <RISPOSTA>The address is returned to the pool for reuse when the lease expires.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A wireless host needs to request an IP address. What protocol would be used to process the request?</DOMANDA>
+      <RISPOSTA>DHCP</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which example of malicious code would be classified as a Trojan horse?</DOMANDA>
+      <RISPOSTA>malware that was written to look like a video game</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>When applied to a router, which command would help mitigate brute-force password attacks against the router?</DOMANDA>
+      <RISPOSTA>login block-for 60 attempts 5 within 60</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Match the description with the associated IOS mode.</DOMANDA>
+      <RISPOSTA>user EXEC mode: \nlimited number of basic monitoring commands\nthe first entrance into the CLI of an IOS device\n\nprivileged EXEC mode:\naccessed by entering the enable command\nidentified by a prompt ending with the # character\n\nglobal configuration mode:\nchanges made affect the operation of the device as a whole\naccessed by entering the configure terminal command</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. Match the packets with their destination IP address to the exiting interfaces on the router. (Not all targets are used.)</DOMANDA>
+      <RISPOSTA>172.17.6.15 -> FE0/0\n172.17.14.8 -> FE0/1\n72.17.12.10 -> FE1/0\n172.17.10.5 -> FE1/1\n172.17.8.20 -> S0/0/0</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A company is expanding its business to other countries. All branch offices must remain connected to corporate headquarters at all times. Which network technology is required to support this requirement?</DOMANDA>
+      <RISPOSTA>WAN</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A home user is looking for an ISP connection that provides high speed digital transmission over regular phone lines. What ISP connection type should be used?</DOMANDA>
+      <RISPOSTA>DSL</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>How does quality of service help a network support a wide range of applications and services?</DOMANDA>
+      <RISPOSTA>by providing mechanisms to manage congested network traffic</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>On which switch interface would an administrator configure an IP address so that the switch can be managed remotely?</DOMANDA>
+      <RISPOSTA>VLAN 1</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>After making configuration changes on a Cisco switch, a network administrator issues a copy running-config startup-config command. What is the result of issuing this command?</DOMANDA>
+      <RISPOSTA>The new configuration will be loaded if the switch is restarted.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. A network administrator is configuring access control to switch SW1. If the administrator has already logged into a Telnet session on the switch, which password is needed to access privileged EXEC mode?</DOMANDA>
+      <RISPOSTA>secretin</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which connection provides a secure CLI session with encryption to a Cisco switch?</DOMANDA>
+      <RISPOSTA>an SSH connection</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network technician is attempting to configure an interface by entering the following command: SanJose(config)# ip address 192.168.2.1 255.255.255.0. The command is rejected by the device. What is the reason for this?</DOMANDA>
+      <RISPOSTA>The command is being entered from the wrong mode of operation.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What function does pressing the Tab key have when entering a command in IOS?</DOMANDA>
+      <RISPOSTA>It completes the remainder of a partially typed word in a command.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What protocol is responsible for controlling the size of segments and the rate at which segments are exchanged between a web client and a web server?</DOMANDA>
+      <RISPOSTA>TCP</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What layer is responsible for routing messages through an internetwork in the TCP/IP model?</DOMANDA>
+      <RISPOSTA>internet</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which statement accurately describes a TCP/IP encapsulation process when a PC is sending data to the network?</DOMANDA>
+      <RISPOSTA>Segments are sent from the transport layer to the internet layer.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What unique address is embedded in an Ethernet NIC and used for communication on an Ethernet network?</DOMANDA>
+      <RISPOSTA>MAC address</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator is troubleshooting connectivity issues on a server. Using a tester, the administrator notices that the signals generated by the server NIC are distorted and not usable. In which layer of the OSI model is the error categorized?</DOMANDA>
+      <RISPOSTA>physical layer</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator is measuring the transfer of bits across the company backbone for a mission critical financial application. The administrator notices that the network throughput appears lower than the bandwidth expected. Which three factors could influence the differences in throughput? (Choose three.)</DOMANDA>
+      <RISPOSTA>the amount of traffic that is currently crossing the network\nthe type of traffic that is crossing the network\nthe latency that is created by the number of network devices that the data is crossing</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which procedure is used to reduce the effect of crosstalk in copper cables?</DOMANDA>
+      <RISPOSTA>twisting opposing circuit wire pairs together</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is a characteristic of the LLC sublayer?</DOMANDA>
+      <RISPOSTA>It places information in the frame allowing multiple Layer 3 protocols to use the same network interface and media.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>During the encapsulation process, what occurs at the data link layer for a PC connected to an Ethernet network?</DOMANDA>
+      <RISPOSTA>The physical address is added.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are the three primary functions provided by Layer 2 data encapsulation? (Choose three.)</DOMANDA>
+      <RISPOSTA>data link layer addressing\ndetection of errors through CRC calculations\ndelimiting groups of bits into frames</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two characteristics of Ethernet MAC addresses? (Choose two.)</DOMANDA>
+      <RISPOSTA>They are globally unique.\nThey are expressed as 12 hexadecimal digits.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>If a device receives an Ethernet frame of 60 bytes, what will it do?</DOMANDA>
+      <RISPOSTA>drop the frame</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What will a host on an Ethernet network do if it receives a frame with a destination MAC address that does not match its own MAC address?</DOMANDA>
+      <RISPOSTA>It will discard the frame.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Under which two circumstances will a switch flood a frame out of every port except the port that the frame was received on? (Choose two.)</DOMANDA>
+      <RISPOSTA>The frame has the broadcast address as the destination address.\nThe destination address is unknown to the switch.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which switching method has the lowest level of latency?</DOMANDA>
+      <RISPOSTA>fast-forward</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two commands can be used on a Windows host to display the routing table? (Choose two.)</DOMANDA>
+      <RISPOSTA>route print\nnetstat -r</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two functions are primary functions of a router? (Choose two.)</DOMANDA>
+      <RISPOSTA>packet forwarding\npath selection</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are the three ranges of IP addresses that are reserved for internal private use? (Choose three.)</DOMANDA>
+      <RISPOSTA>10.0.0.0/8\n172.16.0.0/12\n192.168.0.0/16</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What purpose does NAT64 serve in IPv6?</DOMANDA>
+      <RISPOSTA>It converts IPv6 packets into IPv4 packets.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the binary representation of 0xCA?</DOMANDA>
+      <RISPOSTA>11001010</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>At a minimum, which address is required on IPv6-enabled interfaces?</DOMANDA>
+      <RISPOSTA>link-local</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which service provides dynamic global IPv6 addressing to end devices without using a server that keeps a record of available IPv6 addresses?</DOMANDA>
+      <RISPOSTA>SLAAC</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the purpose of the command ping ::1?</DOMANDA>
+      <RISPOSTA>It tests the internal configuration of an IPv6 host.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>How many usable IP addresses are available on the 192.168.1.0/27 network?</DOMANDA>
+      <RISPOSTA>30</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which subnet would include the address 192.168.1.96 as a usable host address?</DOMANDA>
+      <RISPOSTA>192.168.1.64/26</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator wants to have the same subnet mask for three subnetworks at a small site. The site has the following networks and numbers of devices:\nSubnetwork A: IP phones – 10 addresses\nSubnetwork B: PCs – 8 addresses\nSubnetwork C: Printers – 2 addresses\nWhat single subnet mask would be appropriate to use for the three subnetworks?</DOMANDA>
+      <RISPOSTA>255.255.255.240</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which statement is true about variable-length subnet masking?</DOMANDA>
+      <RISPOSTA>The size of each subnet may be different, depending on requirements.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What subnet mask is needed if an IPv4 network has 40 devices that need IP addresses and address space is not to be wasted?</DOMANDA>
+      <RISPOSTA>255.255.255.192</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two characteristics shared by TCP and UDP? (Choose two.)</DOMANDA>
+      <RISPOSTA>port numbering\nuse of checksum</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Why are port numbers included in the TCP header of a segment?</DOMANDA>
+      <RISPOSTA>to enable a receiving host to forward the data to the appropriate application</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two protocols operate at the highest layer of the TCP/IP protocol stack? (Choose two.)</DOMANDA>
+      <RISPOSTA>DNS\nPOP</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is one difference between the client-server and peer-to-peer network models?</DOMANDA>
+      <RISPOSTA>Every device in a peer-to-peer network can function as a client or a server.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which networking model is being used when an author uploads one chapter document to a file server of a book publisher?</DOMANDA>
+      <RISPOSTA>client/server</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What network service resolves the URL entered on a PC to the IP address of the destination server?</DOMANDA>
+      <RISPOSTA>DNS</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network engineer is analyzing reports from a recently performed network baseline. Which situation would depict a possible latency issue?</DOMANDA>
+      <RISPOSTA>an increase in host-to-host ping response times</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which firewall feature is used to ensure that packets coming into a network are legitimate responses to requests initiated from internal hosts?</DOMANDA>
+      <RISPOSTA>stateful packet inspection</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>During data communications, a host may need to send a single message to a specific group of destination hosts simultaneously. This message is in the form of a  message.</DOMANDA>
+      <RISPOSTA>Multicast</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A medium-sized business is researching available options for connecting to the Internet. The company is looking for a high speed option with dedicated, symmetric access. Which connection type should the company choose?</DOMANDA>
+      <RISPOSTA>leased line</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the purpose of having a converged network?</DOMANDA>
+      <RISPOSTA>to reduce the cost of deploying and maintaining the communication infrastructure</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What characteristic of a network enables it to quickly grow to support new users and applications without impacting the performance of the service being delivered to existing users?</DOMANDA>
+      <RISPOSTA>scalability</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network technician is attempting to configure an interface by entering the following command: SanJose(config)# ip address 192.168.2.1 255.255.255.0. The command is rejected by the device. What is the reason for this?</DOMANDA>
+      <RISPOSTA>The command is being entered from the wrong mode of operation.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>After several configuration changes are made to a router, the copy running-configuration startup-configuration command is issued. Where will the changes be stored?</DOMANDA>
+      <RISPOSTA>NVRAM</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. From global configuration mode, an administrator is attempting to create a message-of-the-day banner by using the command banner motd V Authorized access only! Violators will be prosecuted! V When users log in using Telnet, the banner does not appear correctly. What is the problem?</DOMANDA>
+      <RISPOSTA>The delimiting character appears in the banner message.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are three characteristics of an SVI? (Choose three.)</DOMANDA>
+      <RISPOSTA>It is not associated with any physical interface on a switch.\nIt provides a means to remotely manage a switch.\nIt is associated with VLAN1 by default.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A technician configures a switch with these commands:SwitchA(config)# interface vlan 1\nSwitchA(config-if)# ip address 192.168.1.1 255.255.255.0\nSwitchA(config-if)# no shutdownWhat is the technician configuring?</DOMANDA>
+      <RISPOSTA>SVI</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>In computer communication, what is the purpose of message encoding?</DOMANDA>
+      <RISPOSTA>to convert information to the appropriate form for transmission</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What protocol is responsible for controlling the size of segments and the rate at which segments are exchanged between a web client and a web server?</DOMANDA>
+      <RISPOSTA>TCP</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the process of dividing a data stream into smaller pieces before transmission?</DOMANDA>
+      <RISPOSTA>segmentation</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>When IPv4 addressing is manually configured on a web server, which property of the IPv4 configuration identifies the network and host portion for an IPv4 address?</DOMANDA>
+      <RISPOSTA>subnet mask</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network administrator is troubleshooting connectivity issues on a server. Using a tester, the administrator notices that the signals generated by the server NIC are distorted and not usable. In which layer of the OSI model is the error categorized?</DOMANDA>
+      <RISPOSTA>physical layer</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>A network engineer is measuring the transfer of bits across the company backbone for a mission critical database application. The engineer notices that the network throughput appears lower than the bandwidth expected. Which three factors could influence the differences in throughput? (Choose three.)</DOMANDA>
+      <RISPOSTA>the amount of traffic that is currently crossing the network\nthe latency that is created by the number of network devices that the data is crossing\nthe type of traffic that is crossing the network</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which type of UTP cable is used to connect a PC to a switch port?</DOMANDA>
+      <RISPOSTA>straight-through</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is a characteristic of the LLC sublayer?</DOMANDA>
+      <RISPOSTA>It places information in the frame allowing multiple Layer 3 protocols to use the same network interface and media.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are the three primary functions provided by Layer 2 data encapsulation? (Choose three.)</DOMANDA>
+      <RISPOSTA>data link layer addressing\ndetection of errors through CRC calculations\ndelimiting groups of bits into frames</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What will a host on an Ethernet network do if it receives a frame with a destination MAC address that does not match its own MAC address?</DOMANDA>
+      <RISPOSTA>It will discard the frame.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two actions performed by a Cisco switch? (Choose two.)</DOMANDA>
+      <RISPOSTA>using the source MAC addresses of frames to build and maintain a MAC address table\nutilizing the MAC address table to forward frames via the destination MAC address</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What are two examples of the cut-through switching method? (Choose two.)</DOMANDA>
+      <RISPOSTA>fast-forward switching\nfragment-free switching</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What information is added during encapsulation at OSI Layer 3?</DOMANDA>
+      <RISPOSTA>source and destination IP address</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. The network administrator for a small advertising company has chosen to use the 192.168.5.96/27 network for internal LAN addressing. As shown in the exhibit, a static IP address is assigned to the company web server. However, the web server cannot access the Internet. The administrator verifies that local workstations with IP addresses that are assigned by a DHCP server can access the Internet, and the web server is able to ping local workstations. Which component is incorrectly configured?</DOMANDA>
+      <RISPOSTA>default gateway address</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Why does a Layer 3 device perform the ANDing process on a destination IP address and subnet mask?</DOMANDA>
+      <RISPOSTA>to identify the network address of the destination network</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which three addresses are valid public addresses? (Choose three.)</DOMANDA>
+      <RISPOSTA>198.133.219.17\n128.107.12.117\n64.104.78.227</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What type of IPv6 address is FE80::1?</DOMANDA>
+      <RISPOSTA>link-local</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. On the basis of the output, which two statements about network connectivity are correct? (Choose two.)</DOMANDA>
+      <RISPOSTA>There is connectivity between this device and the device at 192.168.100.1.\nThere are 4 hops between this device and the device at 192.168.100.1.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which subnet would include the address 192.168.1.96 as a usable host address?</DOMANDA>
+      <RISPOSTA>192.168.1.64/26</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>How many hosts are addressable on a network that has a mask of 255.255.255.248?</DOMANDA>
+      <RISPOSTA>6</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which statement is true about variable-length subnet masking?</DOMANDA>
+      <RISPOSTA>The size of each subnet may be different, depending on requirements.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. Consider the IP address of 192.168.10.0/24 that has been assigned to a high school building. The largest network in this building has 100 devices. If 192.168.10.0 is the network number for the largest network, what would be the network number for the next largest network, which has 40 devices?</DOMANDA>
+      <RISPOSTA>192.168.10.128</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>In what two situations would UDP be the preferred transport protocol over TCP? (Choose two.)</DOMANDA>
+      <RISPOSTA>when a faster delivery mechanism is needed\nwhen applications do not need to guarantee delivery of the data</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What important information is added to the TCP/IP transport layer header to ensure communication and connectivity with a remote network device?</DOMANDA>
+      <RISPOSTA>destination and source port numbers</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the TCP mechanism used in congestion avoidance?</DOMANDA>
+      <RISPOSTA>sliding window</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which three statements characterize UDP? (Choose three.)</DOMANDA>
+      <RISPOSTA>UDP provides basic connectionless transport layer functions.\nUDP relies on application layer protocols for error detection. \nUDP is a low overhead protocol that does not provide sequencing or flow control mechanisms.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Which two roles can a computer assume in a peer-to-peer network where a file is being shared between two computers? (Choose two.)</DOMANDA>
+      <RISPOSTA>client\nserver</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>What is the function of the HTTP GET message?</DOMANDA>
+      <RISPOSTA>to request an HTML page from a web server</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>When planning for network growth, where in the network should packet captures take place to assess network traffic?</DOMANDA>
+      <RISPOSTA>on as many different network segments as possible</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Refer to the exhibit. An administrator is testing connectivity to a remote device with the IP address 10.1.1.1. What does the output of this command indicate?</DOMANDA>
+      <RISPOSTA>A router along the path did not have a route to the destination.</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Match each item to the type of topology diagram on which it is typically identified.</DOMANDA>
+      <RISPOSTA>physical topology diagram:\nlocation of a desktop PC in a classroom\npath of cables that connect rooms to wiring closets\n\nlogical topology diagram:\nIPaddress of a server</RISPOSTA>
+    </RICHIESTA>
+    <RICHIESTA>
+      <DOMANDA>Match the situation with the appropriate use of network media.</DOMANDA>
+      <RISPOSTA>Copper Cables:\nhorizontal cabling structure\ndesktop PCs in an enterprise office\n\nFiber Optic:\nbackbone cabling in an enterprise\nlong-haul networks\n\nWireless:\nguest access in a coffee shop\nwaiting rooms in a hospital</RISPOSTA>
+    </RICHIESTA>
+  </CISCO>
+</COLLECTION>
